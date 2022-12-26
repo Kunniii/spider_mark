@@ -41,7 +41,6 @@ class Spider:
       inp_password = self.browser.find_element('id', 'ctl00_mainContent_txtPass')
       inp_username.send_keys(self.USERNAME)
       inp_password.send_keys(self.PASSWORD)
-
       btn_login = self.browser.find_element('id', 'ctl00_mainContent_btLogin')
       btn_login.click()
 
