@@ -4,8 +4,7 @@ import sys
 import pandas as pd
 from bs4 import BeautifulSoup
 
-
-def fall2022Average(p):
+def fall2022Average(p: str):
     # empty list
     data = []
     path = os.path.abspath(p)
@@ -57,10 +56,38 @@ def fall2022Average(p):
     for i in indexes:
         grades.append(float(df.loc[:, "Grade"][i]))
 
-    print(sum(grades)/len(grades))
+    def check(n):
+        return n < 7
 
-    dataFrame.to_csv(path+'.csv')
+    lowerThan7 = map(check, grades)
 
+    if any(lowerThan7) or not grades:
+        return False
 
+    avg = sum(grades)/len(grades)
+    return avg
 
-fall2022Average('./user.xls')
+files = os.listdir("/home/kunix/Downloads/")
+
+import re
+
+p = re.compile('_.+\.')
+p2 = re.compile('..15.+\d')
+
+lines = ["Code, AVG"]
+
+for file in files:
+    userCode = p.findall(file)[0].replace('_', '').replace('.', '')
+    if not p2.match(userCode):
+        continue
+    print(f' [+] Process {userCode}', end='\r')
+    try:
+        grade = fall2022Average(f'/home/kunix/Downloads/{file}')
+        if grade:
+            lines.append(f'{userCode}, {grade}')
+    except:
+        print(f"[!] {userCode} Corrupted!")
+
+with open('fall2022Average.csv', 'w+') as f:
+    for line in lines:
+        print(line, file=f)
