@@ -1,0 +1,752 @@
+RollNumber,MemberCode,LastName,MiddleName,FirstName,Fullname,Email
+CA150016,TanPDHCA150016,Phan,Đặng Hà,Tân,Phan Đặng Hà Tân,TanPDHCA150016@fpt.edu.vn
+CE150016,TanPDHCE150016,Phan,Đặng Hà,Tân,Phan Đặng Hà Tân,TanPDHCE150016@fpt.edu.vn
+CE150854,LamTNHCE150854,Từ,Nguyễn Hồng,Lam,Từ Nguyễn Hồng Lam,LamTNHCE150854@fpt.edu.vn
+CE150041,DuyNHCE150041,Nguyễn,Hữu,Duy,Nguyễn Hữu Duy,DuyNHCE150041@fpt.edu.vn
+CE150127,AnNLBCE150127,Nguyễn,Lê Bình,An,Nguyễn Lê Bình An,AnNLBCE150127@fpt.edu.vn
+CE150196,LocOGCE150196,Ôn,Gia,Lộc,Ôn Gia Lộc,LocOGCE150196@fpt.edu.vn
+CE150197,DuyTLKCE150197,Trần,Lâm Khánh,Duy,Trần Lâm Khánh Duy,DuyTLKCE150197@fpt.edu.vn
+CE150279,HienLMCE150279,Lê,Minh,Hiển,Lê Minh Hiển,HienLMCE150279@fpt.edu.vn
+CE150320,HungLHCE150320,Lê,Hoàng,Hưng,Lê Hoàng Hưng,HungLHCE150320@fpt.edu.vn
+CE150355,LamLMCE150355,Lê,Minh,Lâm,Lê Minh Lâm,LamLMCE150355@fpt.edu.vn
+CE150411,HaoNNCE150411,Nguyễn,Nhựt,Hào,Nguyễn Nhựt Hào,HaoNNCE150411@fpt.edu.vn
+CE150412,DoiHVCE150412,Huỳnh,Văn,Đời,Huỳnh Văn Đời,DoiHVCE150412@fpt.edu.vn
+CE150417,KieuBTCE150417,Bùi,Thúy,Kiều,Bùi Thúy Kiều,KieuBTCE150417@fpt.edu.vn
+CE150440,AnCTCE150440,Châu,Trường,An,Châu Trường An,AnCTCE150440@fpt.edu.vn
+CE150447,HuyPLPCE150447,Phan,Lê Phước,Huy,Phan Lê Phước Huy,HuyPLPCE150447@fpt.edu.vn
+CE150473,NguyenNCCE150473,Nguyễn,Chí,Nguyên,Nguyễn Chí Nguyên,NguyenNCCE150473@fpt.edu.vn
+CE150483,DoTHCE150483,Tạ,Hoàng,Đô,Tạ Hoàng Đô,DoTHCE150483@fpt.edu.vn
+CE150501,NghiaTHCE150501,Trần,Hiếu,Nghĩa,Trần Hiếu Nghĩa,NghiaTHCE150501@fpt.edu.vn
+CE150538,DaoQHCE150538,Quách,Hoàng,Đạo,Quách Hoàng Đạo,DaoQHCE150538@fpt.edu.vn
+CE150554,NghiaNTCE150554,Nguyễn,Trọng,Nghĩa,Nguyễn Trọng Nghĩa,NghiaNTCE150554@fpt.edu.vn
+CE150564,MinhNQCE150564,Nguyễn,Quang,Minh,Nguyễn Quang Minh,MinhNQCE150564@fpt.edu.vn
+CE150577,NguyenNTCE150577,Nguyễn,Trí,Nguyên,Nguyễn Trí Nguyên,NguyenNTCE150577@fpt.edu.vn
+CE150619,HuongNHCE150619,Nguyễn,Hồng,Hương,Nguyễn Hồng Hương,HuongNHCE150619@fpt.edu.vn
+CE150660,ChanLQCE150660,Lê,Quốc,Chấn,Lê Quốc Chấn,ChanLQCE150660@fpt.edu.vn
+CE150695,KhaTMCE150695,Trần,Minh,Kha,Trần Minh Kha,KhaTMCE150695@fpt.edu.vn
+CE150701,KhoiTMCE150701,Tạ,Minh,Khôi,Tạ Minh Khôi,KhoiTMCE150701@fpt.edu.vn
+CE150703,KhanhHCE150703,Huỳnh,,Khánh,Huỳnh  Khánh,KhanhHCE150703@fpt.edu.vn
+CE150732,DuyenNNCE150732,Nguyễn,Ngọc,Duyên,Nguyễn Ngọc Duyên,DuyenNNCE150732@fpt.edu.vn
+CE150749,HieuTHCE150749,Trương,Hoàng,Hiếu,Trương Hoàng Hiếu,HieuTHCE150749@fpt.edu.vn
+CE150830,DuyLCE150830,Lê,,Duy,Lê  Duy,DuyLCE150830@fpt.edu.vn
+CS150784,AnPVCS150784,Phạm,Vũ,An,Phạm Vũ An,AnPVCS150784@fpt.edu.vn
+CE150090,SangVTCE150090,Võ,Tấn,Sang,Võ Tấn Sang,SangVTCE150090@fpt.edu.vn
+CE150135,ManCHCE150135,Châu,Huệ,Mẫn,Châu Huệ Mẫn,ManCHCE150135@fpt.edu.vn
+CE150147,NhuNQCE150147,Nguyễn,Quỳnh,Như,Nguyễn Quỳnh Như,NhuNQCE150147@fpt.edu.vn
+CE150178,AnhNMCE150178,Nguyễn,Minh,Anh,Nguyễn Minh Anh,AnhNMCE150178@fpt.edu.vn
+CE150230,TanNVCE150230,Nguyễn,Vủ,Tân,Nguyễn Vủ Tân,TanNVCE150230@fpt.edu.vn
+CE150243,ThuanPNCE150243,Phạm,Nam,Thuận,Phạm Nam Thuận,ThuanPNCE150243@fpt.edu.vn
+CE150251,ThuanPMCE150251,Phan,Minh,Thuận,Phan Minh Thuận,ThuanPMCE150251@fpt.edu.vn
+CE150293,PhucNVMCE150293,Nguyễn,Văn Minh,Phúc,Nguyễn Văn Minh Phúc,PhucNVMCE150293@fpt.edu.vn
+CE150297,PhuNLHCE150297,Nguyễn,Lê Hưng,Phú,Nguyễn Lê Hưng Phú,PhuNLHCE150297@fpt.edu.vn
+CE150329,AnhTQCE150329,Trần,Quỳnh,Anh,Trần Quỳnh Anh,AnhTQCE150329@fpt.edu.vn
+CE150374,KietBVACE150374,Bùi,Văn Anh,Kiệt,Bùi Văn Anh Kiệt,KietBVACE150374@fpt.edu.vn
+CE150386,PhongTHCE150386,Trần,Hoài,Phong,Trần Hoài Phong,PhongTHCE150386@fpt.edu.vn
+CE150413,NhanTTCE150413,Trần,Trọng,Nhân,Trần Trọng Nhân,NhanTTCE150413@fpt.edu.vn
+CE150422,ManHQCE150422,Huỳnh,Quốc,Mẫn,Huỳnh Quốc Mẫn,ManHQCE150422@fpt.edu.vn
+CE150428,KhanhCQCE150428,Cao,Quốc,Khánh,Cao Quốc Khánh,KhanhCQCE150428@fpt.edu.vn
+CE150441,ThachBNCE150441,Bùi,Ngọc,Thạch,Bùi Ngọc Thạch,ThachBNCE150441@fpt.edu.vn
+CE150460,PhatCACE150460,Cấn,Anh,Phát,Cấn Anh Phát,PhatCACE150460@fpt.edu.vn
+CE150586,NhacDTCE150586,Đỗ,Trung,Nhạc,Đỗ Trung Nhạc,NhacDTCE150586@fpt.edu.vn
+CE150602,AnLTCE150602,Lê,Trường,An,Lê Trường An,AnLTCE150602@fpt.edu.vn
+CE150607,ThanhPTCE150607,Phan,Thanh,Thành,Phan Thanh Thành,ThanhPTCE150607@fpt.edu.vn
+CE150650,KyTVCE150650,Trần,Vĩnh,Ký,Trần Vĩnh Ký,KyTVCE150650@fpt.edu.vn
+CE150672,DatNTCE150672,Nguyễn,Tiến,Đạt,Nguyễn Tiến Đạt,DatNTCE150672@fpt.edu.vn
+CE150698,DatLTCE150698,Lâm,Tấn,Đạt,Lâm Tấn Đạt,DatLTCE150698@fpt.edu.vn
+CE150746,GiaNPCE150746,Ngô,Phúc,Gia,Ngô Phúc Gia,GiaNPCE150746@fpt.edu.vn
+CE150752,CuongTQCE150752,Trịnh,Quốc,Cường,Trịnh Quốc Cường,CuongTQCE150752@fpt.edu.vn
+CS150346,LinhTTTCS150346,Trần,Thị Thùy,Linh,Trần Thị Thùy Linh,LinhTTTCS150346@fpt.edu.vn
+CS150559,NhiNDPCS150559,Nguyễn,Đoàn Phương,Nhi,Nguyễn Đoàn Phương Nhi,NhiNDPCS150559@fpt.edu.vn
+CS150685,NamNHCS150685,Nguyễn,Hoài,Nam,Nguyễn Hoài Nam,NamNHCS150685@fpt.edu.vn
+CA150037,AnhPTKCA150037,Phạm,Thị Kim,Anh,Phạm Thị Kim Anh,AnhPTKCA150037@fpt.edu.vn
+CA150065,AnhTNCA150065,Trần,Nhựt,Anh,Trần Nhựt Anh,AnhTNCA150065@fpt.edu.vn
+CA150088,NgocTNCA150088,Trần,Như,Ngọc,Trần Như Ngọc,NgocTNCA150088@fpt.edu.vn
+CA150277,ThuyLTNCA150277,Lê,Thị Ngọc,Thúy,Lê Thị Ngọc Thúy,ThuyLTNCA150277@fpt.edu.vn
+CA150313,DanNTLCA150313,Nguyễn,Thị Linh,Đan,Nguyễn Thị Linh Đan,DanNTLCA150313@fpt.edu.vn
+CA150361,HungTPCA150361,Trần,Phi,Hùng,Trần Phi Hùng,HungTPCA150361@fpt.edu.vn
+CA150363,HanhNTHCA150363,Nguyễn,Thị Hồng,Hạnh,Nguyễn Thị Hồng Hạnh,HanhNTHCA150363@fpt.edu.vn
+CA150369,HoaPTCA150369,Phạm,Thái,Hòa,Phạm Thái Hòa,HoaPTCA150369@fpt.edu.vn
+CA150445,PhuongDVCA150445,Đinh,Văn,Phương,Đinh Văn Phương,PhuongDVCA150445@fpt.edu.vn
+CA150455,PhungHQHCA150455,Hàng,Quốc Huy,Phụng,Hàng Quốc Huy Phụng,PhungHQHCA150455@fpt.edu.vn
+CA150550,NgocLNHCA150550,Lê,Nguyễn Hồng,Ngọc,Lê Nguyễn Hồng Ngọc,NgocLNHCA150550@fpt.edu.vn
+CA150556,NhiTTCA150556,Trần,Thúy,Nhi,Trần Thúy Nhi,NhiTTCA150556@fpt.edu.vn
+CA150561,TrangTTHCA150561,Trần,Thị Huyền,Trang,Trần Thị Huyền Trang,TrangTTHCA150561@fpt.edu.vn
+CA150640,BangNKCA150640,Nguyễn,Khánh,Băng,Nguyễn Khánh Băng,BangNKCA150640@fpt.edu.vn
+CA150665,DuyenNMCA150665,Nguyễn,Mỹ,Duyên,Nguyễn Mỹ Duyên,DuyenNMCA150665@fpt.edu.vn
+CA150689,NganNTTCA150689,Nguyễn,Thị Thanh,Ngân,Nguyễn Thị Thanh Ngân,NganNTTCA150689@fpt.edu.vn
+CA150721,AnhDHCA150721,Đặng,Hồng,Anh,Đặng Hồng Anh,AnhDHCA150721@fpt.edu.vn
+CA150739,NhiQTNCA150739,Quách,Thị Ngọc,Nhi,Quách Thị Ngọc Nhi,NhiQTNCA150739@fpt.edu.vn
+CE150212,TienNTCE150212,Nguyễn,Thanh,Tiến,Nguyễn Thanh Tiến,TienNTCE150212@fpt.edu.vn
+CE150242,ThuongHMCE150242,Huỳnh,Minh,Thương,Huỳnh Minh Thương,ThuongHMCE150242@fpt.edu.vn
+CE150253,DaoLTHCE150253,La,Thị Hồng,Đào,La Thị Hồng Đào,DaoLTHCE150253@fpt.edu.vn
+CE150400,TongNCCE150400,Nguyễn,Chánh,Tông,Nguyễn Chánh Tông,TongNCCE150400@fpt.edu.vn
+CE150426,VinhLQCE150426,Lê,Quang,Vinh,Lê Quang Vinh,VinhLQCE150426@fpt.edu.vn
+CE150429,TuyenLACE150429,Lê,Ánh,Tuyền,Lê Ánh Tuyền,TuyenLACE150429@fpt.edu.vn
+CE150435,TienLVCE150435,Lý,Văn,Tiền,Lý Văn Tiền,TienLVCE150435@fpt.edu.vn
+CE150481,TriDMCE150481,Đoàn,Minh,Trí,Đoàn Minh Trí,TriDMCE150481@fpt.edu.vn
+CE150745,YenNHCE150745,Nguyễn,Hồng,Yến,Nguyễn Hồng Yến,YenNHCE150745@fpt.edu.vn
+CS150218,NgocNTDCS150218,Nguyễn,Thị Diễm,Ngọc,Nguyễn Thị Diễm Ngọc,NgocNTDCS150218@fpt.edu.vn
+CA150009,VyDLPCA150009,Đoàn,Lê Phương,Vy,Đoàn Lê Phương Vy,VyDLPCA150009@fpt.edu.vn
+CA150214,TuanDMCA150214,Dương,Minh,Tuấn,Dương Minh Tuấn,TuanDMCA150214@fpt.edu.vn
+CA150557,AnhNTMCA150557,Nguyễn,Thị Mai,Anh,Nguyễn Thị Mai Anh,AnhNTMCA150557@fpt.edu.vn
+CA150664,AnhNHCA150664,Nguyễn,Huệ,Anh,Nguyễn Huệ Anh,AnhNHCA150664@fpt.edu.vn
+CA150754,TrinhNTVCA150754,Nguyễn,Thị Việt,Trinh,Nguyễn Thị Việt Trinh,TrinhNTVCA150754@fpt.edu.vn
+CA150757,NhuNTHCA150757,Nguyễn,Thị Huỳnh,Như,Nguyễn Thị Huỳnh Như,NhuNTHCA150757@fpt.edu.vn
+CS150044,CamLTNCS150044,Lê,Thị Ngọc,Cẩm,Lê Thị Ngọc Cẩm,CamLTNCS150044@fpt.edu.vn
+CS150080,HaiNTCS150080,Nguyễn,Thanh,Hải,Nguyễn Thanh Hải,HaiNTCS150080@fpt.edu.vn
+CS150117,DoanNLTCS150117,Nguyễn,Lý Thục,Đoan,Nguyễn Lý Thục Đoan,DoanNLTCS150117@fpt.edu.vn
+CS150119,HaoNGCS150119,Nguyễn,Gia,Hào,Nguyễn Gia Hào,HaoNGCS150119@fpt.edu.vn
+CS150120,LoanNTTCS150120,Nguyễn,Thị Trúc,Loan,Nguyễn Thị Trúc Loan,LoanNTTCS150120@fpt.edu.vn
+CS150283,HaoDNCS150283,Đoàn,Như,Hảo,Đoàn Như Hảo,HaoDNCS150283@fpt.edu.vn
+CS150321,QuyenLVPCS150321,Lê,Võ Phương,Quyền,Lê Võ Phương Quyền,QuyenLVPCS150321@fpt.edu.vn
+CS150350,DuyNQCS150350,Nguyễn,Quốc,Duy,Nguyễn Quốc Duy,DuyNQCS150350@fpt.edu.vn
+CS150353,BaoNTCS150353,Nguyễn,Thanh,Bảo,Nguyễn Thanh Bảo,BaoNTCS150353@fpt.edu.vn
+CS150375,TaiNTCS150375,Nguyễn,Thái,Tài,Nguyễn Thái Tài,TaiNTCS150375@fpt.edu.vn
+CS150430,TaiVMCS150430,Võ,Minh,Tài,Võ Minh Tài,TaiVMCS150430@fpt.edu.vn
+CS150452,HuyenNNCS150452,Nguyễn,Ngọc,Huyền,Nguyễn Ngọc Huyền,HuyenNNCS150452@fpt.edu.vn
+CS150468,DienLHCS150468,Lê,Hiếu,Điền,Lê Hiếu Điền,DienLHCS150468@fpt.edu.vn
+CS150470,HangPMCS150470,Phạm,Minh,Hằng,Phạm Minh Hằng,HangPMCS150470@fpt.edu.vn
+CS150535,DanhDTCS150535,Đỗ,Thành,Danh,Đỗ Thành Danh,DanhDTCS150535@fpt.edu.vn
+CS150537,HuyNHCS150537,Nguyễn,Hoàng,Huy,Nguyễn Hoàng Huy,HuyNHCS150537@fpt.edu.vn
+CS150601,HanhLTMCS150601,Lương,Thị Mỹ,Hạnh,Lương Thị Mỹ Hạnh,HanhLTMCS150601@fpt.edu.vn
+CS150635,LyNTCS150635,Ngô,Trúc,Ly,Ngô Trúc Ly,LyNTCS150635@fpt.edu.vn
+CS150644,HungNTCS150644,Nguyễn,Tấn,Hưng,Nguyễn Tấn Hưng,HungNTCS150644@fpt.edu.vn
+CS150682,HanPTNCS150682,Phạm,Thị Ngọc,Hân,Phạm Thị Ngọc Hân,HanPTNCS150682@fpt.edu.vn
+CS150736,DiepTTNCS150736,Trần,Trương Ngọc,Diệp,Trần Trương Ngọc Diệp,DiepTTNCS150736@fpt.edu.vn
+CE150128,KhangNHCE150128,Nguyễn,Hoàng,Khang,Nguyễn Hoàng Khang,KhangNHCE150128@fpt.edu.vn
+CS150026,AnTHCS150026,Trần,Hoài,Ân,Trần Hoài Ân,AnTHCS150026@fpt.edu.vn
+CS150029,DienLMCS150029,Lê,Mỹ,Diện,Lê Mỹ Diện,DienLMCS150029@fpt.edu.vn
+CS150069,NganDKCS150069,Đặng,Kim,Ngân,Đặng Kim Ngân,NganDKCS150069@fpt.edu.vn
+CS150101,DucLHCS150101,Lâm,Huỳnh,Đức,Lâm Huỳnh Đức,DucLHCS150101@fpt.edu.vn
+CS150107,DuyPKCS150107,Phan,Khánh,Duy,Phan Khánh Duy,DuyPKCS150107@fpt.edu.vn
+CS150131,HuyTHCS150131,Trịnh,Hoàng,Huy,Trịnh Hoàng Huy,HuyTHCS150131@fpt.edu.vn
+CS150270,TranPTBCS150270,Phạm,Thị Bảo,Trân,Phạm Thị Bảo Trân,TranPTBCS150270@fpt.edu.vn
+CS150288,PhatPTCS150288,Phan,Tấn,Phát,Phan Tấn Phát,PhatPTCS150288@fpt.edu.vn
+CS150302,LucDGCS150302,Dương,Gia,Lực,Dương Gia Lực,LucDGCS150302@fpt.edu.vn
+CS150364,BinhNTCS150364,Nguyễn,Thanh,Bình,Nguyễn Thanh Bình,BinhNTCS150364@fpt.edu.vn
+CS150367,TriLMCS150367,Lý,Minh,Trí,Lý Minh Trí,TriLMCS150367@fpt.edu.vn
+CS150381,TrangBCCS150381,Bùi,Cẩm,Trang,Bùi Cẩm Trang,TrangBCCS150381@fpt.edu.vn
+CS150395,ThongBDCS150395,Bùi,Duy,Thông,Bùi Duy Thông,ThongBDCS150395@fpt.edu.vn
+CS150432,ThuNTCCS150432,Nguyễn,Thị Cẩm,Thu,Nguyễn Thị Cẩm Thu,ThuNTCCS150432@fpt.edu.vn
+CS150448,TaiNTCS150448,Nguyễn,Tấn,Tài,Nguyễn Tấn Tài,TaiNTCS150448@fpt.edu.vn
+CS150459,TamLTCS150459,Lê,Thanh,Tâm,Lê Thanh Tâm,TamLTCS150459@fpt.edu.vn
+CS150474,NhanTKCS150474,Trần,Kim,Nhạn,Trần Kim Nhạn,NhanTKCS150474@fpt.edu.vn
+CS150513,ThaoTPCS150513,Trần,Phương,Thảo,Trần Phương Thảo,ThaoTPCS150513@fpt.edu.vn
+CS150548,TranNCS150548,Nguyễn,,Trấn,Nguyễn  Trấn,TranNCS150548@fpt.edu.vn
+CS150574,NhiNTYCS150574,Nguyễn,Thị Yến,Nhi,Nguyễn Thị Yến Nhi,NhiNTYCS150574@fpt.edu.vn
+CS150589,VanLBCS150589,Lê,Bích,Vân,Lê Bích Vân,VanLBCS150589@fpt.edu.vn
+CS150613,khangNPVCS150613,Nguyễn,Phúc Vinh,Khang,Nguyễn Phúc Vinh khang,khangNPVCS150613@fpt.edu.vn
+CS150632,DuyHTCS150632,Huỳnh,Tấn,Duy,Huỳnh Tấn Duy,DuyHTCS150632@fpt.edu.vn
+CS150671,HuyNHCS150671,Nguyễn,Hoàng,Huy,Nguyễn Hoàng Huy,HuyNHCS150671@fpt.edu.vn
+CS150673,HaoLVCS150673,Lương,Vĩnh,Hào,Lương Vĩnh Hào,HaoLVCS150673@fpt.edu.vn
+CS150680,YNTNCS150680,Nguyễn,Thị Như,Ý,Nguyễn Thị Như Ý,YNTNCS150680@fpt.edu.vn
+CS150690,HaoTNKCS150690,Trần,Nguyễn Khánh,Hào,Trần Nguyễn Khánh Hào,HaoTNKCS150690@fpt.edu.vn
+CS150733,DuyHTCS150733,Huỳnh,Tường,Duy,Huỳnh Tường Duy,DuyHTCS150733@fpt.edu.vn
+CA150827,HienTMCA150827,Trác,Mỹ,Hiền,Trác Mỹ Hiền,HienTMCA150827@fpt.edu.vn
+CE150821,NhatHMCE150821,Huỳnh,Minh,Nhật,Huỳnh Minh Nhật,NhatHMCE150821@fpt.edu.vn
+CE150852,PhatCHCE150852,Châu,Hưng,Phát,Châu Hưng Phát,PhatCHCE150852@fpt.edu.vn
+CS150129,PhungLPCS150129,Lưu,Phương,Phụng,Lưu Phương Phụng,PhungLPCS150129@fpt.edu.vn
+CS150143,QuynhPTDCS150143,Phạm,Thị Diễm,Quỳnh,Phạm Thị Diễm Quỳnh,QuynhPTDCS150143@fpt.edu.vn
+CS150165,TriNMCS150165,Nguyễn,Minh,Trí,Nguyễn Minh Trí,TriNMCS150165@fpt.edu.vn
+CS150179,TuyenTTKCS150179,Trần,Thị Kim,Tuyền,Trần Thị Kim Tuyền,TuyenTTKCS150179@fpt.edu.vn
+CS150208,ThuNTACS150208,Nguyễn,Trần Anh,Thư,Nguyễn Trần Anh Thư,ThuNTACS150208@fpt.edu.vn
+CS150235,TramLNCS150235,Lê,Ngọc,Trâm,Lê Ngọc Trâm,TramLNCS150235@fpt.edu.vn
+CS150391,ThuNTACS150391,Nguyễn,Thị Anh,Thư,Nguyễn Thị Anh Thư,ThuNTACS150391@fpt.edu.vn
+CS150436,LamTHCS150436,Trần,Hải,Lâm,Trần Hải Lâm,LamTHCS150436@fpt.edu.vn
+CS150486,YenPHCS150486,Phan,Hồng,Yến,Phan Hồng Yến,YenPHCS150486@fpt.edu.vn
+CS150492,TramTTNCS150492,Trần,Thị Ngọc,Trâm,Trần Thị Ngọc Trâm,TramTTNCS150492@fpt.edu.vn
+CS150502,TruongNNCS150502,Nguyễn,Nhựt,Trường,Nguyễn Nhựt Trường,TruongNNCS150502@fpt.edu.vn
+CS150504,QuyenPPCS150504,Phạm,Phương,Quyên,Phạm Phương Quyên,QuyenPPCS150504@fpt.edu.vn
+CS150529,TienNTCCS150529,Nguyễn,Thị Cẩm,Tiên,Nguyễn Thị Cẩm Tiên,TienNTCCS150529@fpt.edu.vn
+CS150563,HuynhNNCS150563,Nguyễn,Như,Huỳnh,Nguyễn Như Huỳnh,HuynhNNCS150563@fpt.edu.vn
+CS150580,LongHHCS150580,Hồ,Huỳnh,Long,Hồ Huỳnh Long,LongHHCS150580@fpt.edu.vn
+CS150609,NganPTTCS150609,Phạm,Trần Thúy,Ngân,Phạm Trần Thúy Ngân,NganPTTCS150609@fpt.edu.vn
+CS150622,QuyenNTCS150622,Nguyễn,Tố,Quyên,Nguyễn Tố Quyên,QuyenNTCS150622@fpt.edu.vn
+CS150633,PhongLNCS150633,Lưu,Ngọc,Phong,Lưu Ngọc Phong,PhongLNCS150633@fpt.edu.vn
+CS150641,ThuyNTCS150641,Nguyễn,Thanh,Thúy,Nguyễn Thanh Thúy,ThuyNTCS150641@fpt.edu.vn
+CS150658,MyPDCS150658,Phạm,Diễm,My,Phạm Diễm My,MyPDCS150658@fpt.edu.vn
+CS150709,KietBACS150709,Bùi,Anh,Kiệt,Bùi Anh Kiệt,KietBACS150709@fpt.edu.vn
+CS150712,KhangLHCS150712,Lê,Hồng,Khang,Lê Hồng Khang,KhangLHCS150712@fpt.edu.vn
+CS150720,MinhDTNCS150720,Đỗ,Thị Ngọc,Minh,Đỗ Thị Ngọc Minh,MinhDTNCS150720@fpt.edu.vn
+CS150760,AnhTBQCS150760,Trịnh,Bảo Quốc,Anh,Trịnh Bảo Quốc Anh,AnhTBQCS150760@fpt.edu.vn
+CS150774,AnhDTLCS150774,Dương,Thị Loan,Anh,Dương Thị Loan Anh,AnhDTLCS150774@fpt.edu.vn
+CS150855,DuyNLCS150855,Nguyễn,Lê,Duy,Nguyễn Lê Duy,DuyNLCS150855@fpt.edu.vn
+CS150861,HuyNHCS150861,Nguyễn,Hoàng,Huy,Nguyễn Hoàng Huy,HuyNHCS150861@fpt.edu.vn
+CA150453,NhiHTCA150453,Hồ,Tâm,Nhi,Hồ Tâm Nhi,NhiHTCA150453@fpt.edu.vn
+CA150587,ThuNTTCA150587,Nguyễn,Thị Thanh,Thư,Nguyễn Thị Thanh Thư,ThuNTTCA150587@fpt.edu.vn
+CE150008,CongDVTCE150008,Dương,Văn Thành,Công,Dương Văn Thành Công,CongDVTCE150008@fpt.edu.vn
+CE150010,KienNCCE150010,Nguyễn,Chí,Kiên,Nguyễn Chí Kiên,KienNCCE150010@fpt.edu.vn
+CE150011,DuyTHCE150011,Trần,Hoàng,Duy,Trần Hoàng Duy,DuyTHCE150011@fpt.edu.vn
+CE150140,BenCSCE150140,Cao,Sĩ,Ben,Cao Sĩ Ben,BenCSCE150140@fpt.edu.vn
+CE150159,HuyLTCE150159,Lưu,Thế,Huy,Lưu Thế Huy,HuyLTCE150159@fpt.edu.vn
+CE150171,NhiLNCE150171,Lâm,Ngọc,Nhi,Lâm Ngọc Nhi,NhiLNCE150171@fpt.edu.vn
+CE150175,KhangTDCE150175,Trương,Duy,Khang,Trương Duy Khang,KhangTDCE150175@fpt.edu.vn
+CE150187,ChuongNNCE150187,Nguyễn,Nhật,Chương,Nguyễn Nhật Chương,ChuongNNCE150187@fpt.edu.vn
+CE150188,DangHHCE150188,Huỳnh,Hải,Đăng,Huỳnh Hải Đăng,DangHHCE150188@fpt.edu.vn
+CE150213,QuynhLNCE150213,Lê,Nhật,Quỳnh,Lê Nhật Quỳnh,QuynhLNCE150213@fpt.edu.vn
+CE150247,DuyNKCE150247,Nguyễn,Khánh,Duy,Nguyễn Khánh Duy,DuyNKCE150247@fpt.edu.vn
+CE150280,KhangNHCE150280,Nguyễn,Hoàng,Khang,Nguyễn Hoàng Khang,KhangNHCE150280@fpt.edu.vn
+CE150307,LuanNVCE150307,Nguyễn,Vũ,Luân,Nguyễn Vũ Luân,LuanNVCE150307@fpt.edu.vn
+CE150327,KhoiLMCE150327,La,Minh,Khôi,La Minh Khôi,KhoiLMCE150327@fpt.edu.vn
+CE150402,LuanNTCE150402,Nguyễn,Thanh,Luân,Nguyễn Thanh Luân,LuanNTCE150402@fpt.edu.vn
+CE150406,HungLCTCE150406,Lê,Cao Tuấn,Hưng,Lê Cao Tuấn Hưng,HungLCTCE150406@fpt.edu.vn
+CE150424,KhangBHCE150424,Bùi,Hữu,Khang,Bùi Hữu Khang,KhangBHCE150424@fpt.edu.vn
+CE150439,DucLTCE150439,Liểu,Trọng,Đức,Liểu Trọng Đức,DucLTCE150439@fpt.edu.vn
+CE150457,DoNTCE150457,Nguyễn,Thành,Đô,Nguyễn Thành Đô,DoNTCE150457@fpt.edu.vn
+CE150469,HuongTDCE150469,Trần,Đồng,Hương,Trần Đồng Hương,HuongTDCE150469@fpt.edu.vn
+CE150610,DuyTNKCE150610,Tô,Ngọc Khánh,Duy,Tô Ngọc Khánh Duy,DuyTNKCE150610@fpt.edu.vn
+CE150621,SangNQCE150621,Nguyễn,Quang,Sang,Nguyễn Quang Sang,SangNQCE150621@fpt.edu.vn
+CE150651,NguyenBTCE150651,Bùi,Tấn,Nguyên,Bùi Tấn Nguyên,NguyenBTCE150651@fpt.edu.vn
+CE150722,NhanGTNCE150722,Giang,Trung Nghĩa,Nhân,Giang Trung Nghĩa Nhân,NhanGTNCE150722@fpt.edu.vn
+CS150603,KimNTXCS150603,Nguyễn,Thị Xuân,Kim,Nguyễn Thị Xuân Kim,KimNTXCS150603@fpt.edu.vn
+CS150779,HanhTMCS150779,Trương,Mỹ,Hạnh,Trương Mỹ Hạnh,HanhTMCS150779@fpt.edu.vn
+CS150782,NhiVTYCS150782,Võ,Tôn Yến,Nhi,Võ Tôn Yến Nhi,NhiVTYCS150782@fpt.edu.vn
+CE150015,ThangTNCE150015,Trương,Ngọc,Thắng,Trương Ngọc Thắng,ThangTNCE150015@fpt.edu.vn
+CE150021,TuyenLHNCE150021,Lê,Huỳnh Ngọc,Tuyền,Lê Huỳnh Ngọc Tuyền,TuyenLHNCE150021@fpt.edu.vn
+CE150032,NhuDTCCE150032,Đinh,Thị Cẩm,Như,Đinh Thị Cẩm Như,NhuDTCCE150032@fpt.edu.vn
+CE150076,ThienVNCE150076,Võ,Ngọc,Thiên,Võ Ngọc Thiên,ThienVNCE150076@fpt.edu.vn
+CE150136,ThucTTCE150136,Trần,Trí,Thức,Trần Trí Thức,ThucTTCE150136@fpt.edu.vn
+CE150204,MyKTCE150204,Khưu,Tú,My,Khưu Tú My,MyKTCE150204@fpt.edu.vn
+CE150265,TruongTNNCE150265,Trần,Nguyễn Nhựt,Trường,Trần Nguyễn Nhựt Trường,TruongTNNCE150265@fpt.edu.vn
+CE150304,TrongLDCE150304,Lê,Đức,Trọng,Lê Đức Trọng,TrongLDCE150304@fpt.edu.vn
+CE150378,ThuanCVCE150378,Ca,Vĩnh,Thuận,Ca Vĩnh Thuận,ThuanCVCE150378@fpt.edu.vn
+CE150401,SonTCCE150401,Trịnh,Công,Sơn,Trịnh Công Sơn,SonTCCE150401@fpt.edu.vn
+CE150409,TuyenDTCE150409,Danh,Thanh,Tuyền,Danh Thanh Tuyền,TuyenDTCE150409@fpt.edu.vn
+CE150420,SonNNCE150420,Nguyễn,Ngọc,Sơn,Nguyễn Ngọc Sơn,SonNNCE150420@fpt.edu.vn
+CE150431,NghiaLHCE150431,Lê,Hiếu,Nghĩa,Lê Hiếu Nghĩa,NghiaLHCE150431@fpt.edu.vn
+CE150438,ToanDQCE150438,Dương,Quốc,Toàn,Dương Quốc Toàn,ToanDQCE150438@fpt.edu.vn
+CE150442,HopNVCE150442,Nguyễn,Văn,Hợp,Nguyễn Văn Hợp,HopNVCE150442@fpt.edu.vn
+CE150462,TaiNTCE150462,Nguyễn,Thành,Tài,Nguyễn Thành Tài,TaiNTCE150462@fpt.edu.vn
+CE150505,TramTTBCE150505,Trần,Thị Bích,Trâm,Trần Thị Bích Trâm,TramTTBCE150505@fpt.edu.vn
+CE150522,ThienNDCE150522,Ngô,Đức,Thiện,Ngô Đức Thiện,ThienNDCE150522@fpt.edu.vn
+CE150552,ThanTCCE150552,Trần,Chí,Thân,Trần Chí Thân,ThanTCCE150552@fpt.edu.vn
+CE150570,DuyPHCE150570,Phạm,Hoàng,Duy,Phạm Hoàng Duy,DuyPHCE150570@fpt.edu.vn
+CE150585,TanTTCE150585,Trần,Triệu,Tấn,Trần Triệu Tấn,TanTTCE150585@fpt.edu.vn
+CE150593,ThienTHCE150593,Trần,Hoàng,Thiên,Trần Hoàng Thiên,ThienTHCE150593@fpt.edu.vn
+CE150595,ThuanNHCE150595,Nguyễn,Hoàng,Thuận,Nguyễn Hoàng Thuận,ThuanNHCE150595@fpt.edu.vn
+CE150643,TrinhQVCE150643,Quách,Vĩnh,Trinh,Quách Vĩnh Trinh,TrinhQVCE150643@fpt.edu.vn
+CE150679,KhangDTCE150679,Đoàn,Trọng,Khang,Đoàn Trọng Khang,KhangDTCE150679@fpt.edu.vn
+CE150700,MinhNQCE150700,Nguyễn,Quang,Minh,Nguyễn Quang Minh,MinhNQCE150700@fpt.edu.vn
+CE150710,ThaiLHCE150710,Lê,Hoàng,Thái,Lê Hoàng Thái,ThaiLHCE150710@fpt.edu.vn
+CE150740,HaiPCCE150740,Phạm,Chí,Hải,Phạm Chí Hải,HaiPCCE150740@fpt.edu.vn
+CA150115,QuynhNTNCA150115,Nguyễn,Thị Như,Quỳnh,Nguyễn Thị Như Quỳnh,QuynhNTNCA150115@fpt.edu.vn
+CA150231,NganDNKCA150231,Danh,Nguyễn Kim,Ngân,Danh Nguyễn Kim Ngân,NganDNKCA150231@fpt.edu.vn
+CA150246,ThiNKCA150246,Nguyễn,Khoa,Thi,Nguyễn Khoa Thi,ThiNKCA150246@fpt.edu.vn
+CA150518,NhiVTYCA150518,Võ,Thị Yến,Nhi,Võ Thị Yến Nhi,NhiVTYCA150518@fpt.edu.vn
+CA150541,BaoNVCA150541,Nguyễn,Văn,Bảo,Nguyễn Văn Bảo,BaoNVCA150541@fpt.edu.vn
+CA150543,HanPMCA150543,Phạm,Mỹ,Hân,Phạm Mỹ Hân,HanPMCA150543@fpt.edu.vn
+CA150578,GiaoLHCA150578,Lư,Huỳnh,Giao,Lư Huỳnh Giao,GiaoLHCA150578@fpt.edu.vn
+CA150636,NhiHHCA150636,Huỳnh,Hương,Nhi,Huỳnh Hương Nhi,NhiHHCA150636@fpt.edu.vn
+CA150674,DuyenNTMCA150674,Nguyễn,Thị Mỹ,Duyên,Nguyễn Thị Mỹ Duyên,DuyenNTMCA150674@fpt.edu.vn
+CA150677,HuyenHNCA150677,Huỳnh,Ngọc,Huyền,Huỳnh Ngọc Huyền,HuyenHNCA150677@fpt.edu.vn
+CA150719,KhanhTDCA150719,Trần,Duy,Khánh,Trần Duy Khánh,KhanhTDCA150719@fpt.edu.vn
+CA150726,QuynhBTNCA150726,Bùi,Thị Như,Quỳnh,Bùi Thị Như Quỳnh,QuynhBTNCA150726@fpt.edu.vn
+CA150750,NganNKCA150750,Nguyễn,Kim,Ngân,Nguyễn Kim Ngân,NganNKCA150750@fpt.edu.vn
+CA150857,TrinhHNNCA150857,Huỳnh,Nguyễn Ngọc,Trinh,Huỳnh Nguyễn Ngọc Trinh,TrinhHNNCA150857@fpt.edu.vn
+CE150201,SangHPCE150201,Hà,Phước,Sang,Hà Phước Sang,SangHPCE150201@fpt.edu.vn
+CE150303,AnhTCCE150303,Trần,Cẩm,Anh,Trần Cẩm Anh,AnhTCCE150303@fpt.edu.vn
+CE150340,NghiaHTCE150340,Hồ,Tấn,Nghĩa,Hồ Tấn Nghĩa,NghiaHTCE150340@fpt.edu.vn
+CE150345,DanLHNCE150345,Lê,Hồ Nhật,Đan,Lê Hồ Nhật Đan,DanLHNCE150345@fpt.edu.vn
+CE150385,QuanTMCE150385,Thái,Minh,Quân,Thái Minh Quân,QuanTMCE150385@fpt.edu.vn
+CE150444,SonNTCE150444,Nguyễn,Thái,Sơn,Nguyễn Thái Sơn,SonNTCE150444@fpt.edu.vn
+CE150456,PhatNTCE150456,Nguyễn,Tiến,Phát,Nguyễn Tiến Phát,PhatNTCE150456@fpt.edu.vn
+CE150497,AnhNKCE150497,Ngô,Kiều,Anh,Ngô Kiều Anh,AnhNKCE150497@fpt.edu.vn
+CE150514,UyenLTCE150514,Lê,Tú,Uyên,Lê Tú Uyên,UyenLTCE150514@fpt.edu.vn
+CE150576,VinhPTCE150576,Phan,Thế,Vinh,Phan Thế Vinh,VinhPTCE150576@fpt.edu.vn
+CE150625,KhanhTGCE150625,Trịnh,Gia,Khánh,Trịnh Gia Khánh,KhanhTGCE150625@fpt.edu.vn
+CE150670,PhuongLNCE150670,Lê,Nguyệt,Phương,Lê Nguyệt Phương,PhuongLNCE150670@fpt.edu.vn
+CE150707,PhucTTCE150707,Trần,Trọng,Phúc,Trần Trọng Phúc,PhucTTCE150707@fpt.edu.vn
+CE150756,CanhDMCE150756,Đặng,Minh,Cảnh,Đặng Minh Cảnh,CanhDMCE150756@fpt.edu.vn
+CE150770,MyNHCE150770,Nguyễn,Hoàng,Mỹ,Nguyễn Hoàng Mỹ,MyNHCE150770@fpt.edu.vn
+CA150012,PhuongTDHCA150012,Trần,Đặng Hồng,Phương,Trần Đặng Hồng Phương,PhuongTDHCA150012@fpt.edu.vn
+CA150017,AnPTTCA150017,Phạm,Thị Thúy,An,Phạm Thị Thúy An,AnPTTCA150017@fpt.edu.vn
+CA150035,KhangNMCA150035,Ngô,Mạnh,Khang,Ngô Mạnh Khang,KhangNMCA150035@fpt.edu.vn
+CA150122,NhuPTHCA150122,Phan,Thị Huỳnh,Như,Phan Thị Huỳnh Như,NhuPTHCA150122@fpt.edu.vn
+CA150209,TruongTTCA150209,Trần,Thanh,Trường,Trần Thanh Trường,TruongTTCA150209@fpt.edu.vn
+CA150222,PhuongLTNCA150222,Lê,Thị Ngọc,Phượng,Lê Thị Ngọc Phượng,PhuongLTNCA150222@fpt.edu.vn
+CA150262,NoNNCA150262,Nguyễn,Ngọc,Nỡ,Nguyễn Ngọc Nỡ,NoNNCA150262@fpt.edu.vn
+CA150306,DanhOHCA150306,Ong,Hoàng,Danh,Ong Hoàng Danh,DanhOHCA150306@fpt.edu.vn
+CA150309,GiaoNTCCA150309,Nguyễn,Thị Cẩm,Giao,Nguyễn Thị Cẩm Giao,GiaoNTCCA150309@fpt.edu.vn
+CA150403,LinhTTTMCA150403,Trương,Trần Thị Mỹ,Linh,Trương Trần Thị Mỹ Linh,LinhTTTMCA150403@fpt.edu.vn
+CA150446,MyLTKCA150446,Lê,Thị Kiều,My,Lê Thị Kiều My,MyLTKCA150446@fpt.edu.vn
+CA150449,QuyenNTPCA150449,Nguyễn,Trần Phương,Quyên,Nguyễn Trần Phương Quyên,QuyenNTPCA150449@fpt.edu.vn
+CA150464,AnhPDTCA150464,Phạm,Đoàn Thục,Anh,Phạm Đoàn Thục Anh,AnhPDTCA150464@fpt.edu.vn
+CA150482,TrangNLTCA150482,Nguyễn,Lê Thùy,Trang,Nguyễn Lê Thùy Trang,TrangNLTCA150482@fpt.edu.vn
+CA150503,HanhNTTCA150503,Nguyễn,Thị Tuyết,Hạnh,Nguyễn Thị Tuyết Hạnh,HanhNTTCA150503@fpt.edu.vn
+CA150508,NhiPNCA150508,Phạm,Ngọc,Nhi,Phạm Ngọc Nhi,NhiPNCA150508@fpt.edu.vn
+CA150528,NhungDTCCA150528,Đặng,Thị Cẩm,Nhung,Đặng Thị Cẩm Nhung,NhungDTCCA150528@fpt.edu.vn
+CA150530,ThuLMCA150530,Lý,Mỹ,Thư,Lý Mỹ Thư,ThuLMCA150530@fpt.edu.vn
+CA150612,NhanLDTCA150612,Lê,Đổ Tú,Nhân,Lê Đổ Tú Nhân,NhanLDTCA150612@fpt.edu.vn
+CA150617,DuongNMCA150617,Nguyễn,Minh,Đương,Nguyễn Minh Đương,DuongNMCA150617@fpt.edu.vn
+CA150639,NghiepLTCA150639,Lâm,Thanh,Nghiệp,Lâm Thanh Nghiệp,NghiepLTCA150639@fpt.edu.vn
+CA150653,LyTTCA150653,Trần,Trúc,Ly,Trần Trúc Ly,LyTTCA150653@fpt.edu.vn
+CA150655,ThuNTMCA150655,Nguyễn,Thị Minh,Thư,Nguyễn Thị Minh Thư,ThuNTMCA150655@fpt.edu.vn
+CA150687,VanLTNCA150687,Lê,Thị Ngọc,Vân,Lê Thị Ngọc Vân,VanLTNCA150687@fpt.edu.vn
+CA150692,TrieuNTCA150692,Nguyễn,Thanh,Triều,Nguyễn Thanh Triều,TrieuNTCA150692@fpt.edu.vn
+CA150755,YTTNCA150755,Trần,Thị Như,Ý,Trần Thị Như Ý,YTTNCA150755@fpt.edu.vn
+CA150767,TrinhTKCA150767,Trần,Kim,Trinh,Trần Kim Trinh,TrinhTKCA150767@fpt.edu.vn
+CE150311,TrucVTMCE150311,Vỏ,Thị Mỹ,Trúc,Vỏ Thị Mỹ Trúc,TrucVTMCE150311@fpt.edu.vn
+CS150681,NhungLTPCS150681,Lương,Thị Phi,Nhung,Lương Thị Phi Nhung,NhungLTPCS150681@fpt.edu.vn
+CA150013,TrangNTKCA150013,Nguyễn,Thị Khánh,Trang,Nguyễn Thị Khánh Trang,TrangNTKCA150013@fpt.edu.vn
+CA150055,ThaoNTTCA150055,Nguyễn,Thị Thu,Thảo,Nguyễn Thị Thu Thảo,ThaoNTTCA150055@fpt.edu.vn
+CA150176,QuynhVKCA150176,Vương,Khánh,Quỳnh,Vương Khánh Quỳnh,QuynhVKCA150176@fpt.edu.vn
+CA150348,ThuyLLHCA150348,Lê,Lâm Hồng,Thủy,Lê Lâm Hồng Thủy,ThuyLLHCA150348@fpt.edu.vn
+CA150393,VanNTHCA150393,Nguyễn,Thị Hồng,Vân,Nguyễn Thị Hồng Vân,VanNTHCA150393@fpt.edu.vn
+CA150451,ThuDTACA150451,Dương,Thị Anh,Thư,Dương Thị Anh Thư,ThuDTACA150451@fpt.edu.vn
+CA150466,OanhNTHCA150466,Nguyễn,Thị Hoàng,Oanh,Nguyễn Thị Hoàng Oanh,OanhNTHCA150466@fpt.edu.vn
+CA150515,VanNNSHCA150515,Nguyễn,Ngọc Sơn Hải,Vân,Nguyễn Ngọc Sơn Hải Vân,VanNNSHCA150515@fpt.edu.vn
+CA150584,TuanPMCA150584,Phan,Minh,Tuấn,Phan Minh Tuấn,TuanPMCA150584@fpt.edu.vn
+CA150608,KhanhNHCA150608,Nguyễn,Hữu,Khánh,Nguyễn Hữu Khánh,KhanhNHCA150608@fpt.edu.vn
+CA150714,ThanhHTKCA150714,Hà,Thị Kim,Thanh,Hà Thị Kim Thanh,ThanhHTKCA150714@fpt.edu.vn
+CA150738,TuyenVTMCA150738,Võ,Thị Mỹ,Tuyên,Võ Thị Mỹ Tuyên,TuyenVTMCA150738@fpt.edu.vn
+CS150153,AnhPNQCS150153,Phan,Ngọc Quế,Anh,Phan Ngọc Quế Anh,AnhPNQCS150153@fpt.edu.vn
+CS150173,LoanPTHCS150173,Phan,Thị Hồng,Loan,Phan Thị Hồng Loan,LoanPTHCS150173@fpt.edu.vn
+CS150194,HocNTCS150194,Nguyễn,Thái,Học,Nguyễn Thái Học,HocNTCS150194@fpt.edu.vn
+CS150207,KhangNVCS150207,Nguyễn,Vĩnh,Khang,Nguyễn Vĩnh Khang,KhangNVCS150207@fpt.edu.vn
+CS150234,AnhLTLCS150234,Lương,Trần Lan,Anh,Lương Trần Lan Anh,AnhLTLCS150234@fpt.edu.vn
+CS150333,VyDMCS150333,Dương,Mỹ,Vy,Dương Mỹ Vy,VyDMCS150333@fpt.edu.vn
+CS150334,LinhPNCS150334,Phạm,Nhật,Linh,Phạm Nhật Linh,LinhPNCS150334@fpt.edu.vn
+CS150532,LoiPVCS150532,Phùng,Vĩnh,Lợi,Phùng Vĩnh Lợi,LoiPVCS150532@fpt.edu.vn
+CS150581,DaoNTTCS150581,Nguyễn,Thị Thu,Đào,Nguyễn Thị Thu Đào,DaoNTTCS150581@fpt.edu.vn
+CS150594,HuongNHDCS150594,Nguyễn,Hà Đinh,Hương,Nguyễn Hà Đinh Hương,HuongNHDCS150594@fpt.edu.vn
+CS150638,KhaVTCS150638,Võ,Tuyết,Kha,Võ Tuyết Kha,KhaVTCS150638@fpt.edu.vn
+CS150705,KieuLDCS150705,Lưu,Diễm,Kiều,Lưu Diễm Kiều,KieuLDCS150705@fpt.edu.vn
+CS150723,KhangLVCS150723,Lâm,Vĩnh,Khang,Lâm Vĩnh Khang,KhangLVCS150723@fpt.edu.vn
+CS150742,DiemTKCS150742,Tạ,Kiều,Diểm,Tạ Kiều Diểm,DiemTKCS150742@fpt.edu.vn
+CS150040,ThanhNTTCS150040,Nguyễn,Thị Thâu,Thanh,Nguyễn Thị Thâu Thanh,ThanhNTTCS150040@fpt.edu.vn
+CS150113,VinhNTKCS150113,Nguyễn,Trần Khánh,Vinh,Nguyễn Trần Khánh Vinh,VinhNTKCS150113@fpt.edu.vn
+CS150158,LongVBCS150158,Vương,Bình,Long,Vương Bình Long,LongVBCS150158@fpt.edu.vn
+CS150164,DatTTCS150164,Trần,Thành,Đạt,Trần Thành Đạt,DatTTCS150164@fpt.edu.vn
+CS150172,NganNTKCS150172,Nguyễn,Thị Kim,Ngân,Nguyễn Thị Kim Ngân,NganNTKCS150172@fpt.edu.vn
+CS150177,MyTMCS150177,Trần,Mỹ,Mỹ,Trần Mỹ Mỹ,MyTMCS150177@fpt.edu.vn
+CS150192,HuyenTTMCS150192,Trần,Thị Mai,Huyền,Trần Thị Mai Huyền,HuyenTTMCS150192@fpt.edu.vn
+CS150195,TruongLQCS150195,Lê,Quang,Trường,Lê Quang Trường,TruongLQCS150195@fpt.edu.vn
+CS150238,NguyenNKCS150238,Nguyễn,Khôi,Nguyên,Nguyễn Khôi Nguyên,NguyenNKCS150238@fpt.edu.vn
+CS150244,NguyetNTMCS150244,Nguyễn,Thị Minh,Nguyệt,Nguyễn Thị Minh Nguyệt,NguyetNTMCS150244@fpt.edu.vn
+CS150249,PhuQCS150249,Quách,,Phú,Quách  Phú,PhuQCS150249@fpt.edu.vn
+CS150267,TuDHCCS150267,Đỗ,Hà Cẩm,Tú,Đỗ Hà Cẩm Tú,TuDHCCS150267@fpt.edu.vn
+CS150418,YNNNCS150418,Ngô,Ngọc Như,Ý,Ngô Ngọc Như Ý,YNNNCS150418@fpt.edu.vn
+CS150423,NgocVTHCS150423,Văn,Thị Hoài,Ngọc,Văn Thị Hoài Ngọc,NgocVTHCS150423@fpt.edu.vn
+CS150433,ViTTCS150433,Trương,Tường,Vi,Trương Tường Vi,ViTTCS150433@fpt.edu.vn
+CS150467,TruyenNTCS150467,Nguyễn,Thanh,Truyền,Nguyễn Thanh Truyền,TruyenNTCS150467@fpt.edu.vn
+CS150496,NganHMCS150496,Huỳnh,Mỹ,Ngân,Huỳnh Mỹ Ngân,NganHMCS150496@fpt.edu.vn
+CS150520,NhiLTCS150520,Lê,Tố,Nhi,Lê Tố Nhi,NhiLTCS150520@fpt.edu.vn
+CS150565,KhoaDDCS150565,Đỗ,Đăng,Khoa,Đỗ Đăng Khoa,KhoaDDCS150565@fpt.edu.vn
+CS150566,NganMTCS150566,Mai,Thảo,Ngân,Mai Thảo Ngân,NganMTCS150566@fpt.edu.vn
+CS150590,VyLNTCS150590,Lê,Ngọc Thúy,Vy,Lê Ngọc Thúy Vy,VyLNTCS150590@fpt.edu.vn
+CS150591,VinhNTCS150591,Nguyễn,Thành,Vinh,Nguyễn Thành Vinh,VinhNTCS150591@fpt.edu.vn
+CS150605,GiangTXCS150605,Thái,Xuân,Giang,Thái Xuân Giang,GiangTXCS150605@fpt.edu.vn
+CS150663,NgocLHBCS150663,Lê,Hồng Bảo,Ngọc,Lê Hồng Bảo Ngọc,NgocLHBCS150663@fpt.edu.vn
+CS150683,NhiNTACS150683,Nguyễn,Thị Anh,Nhi,Nguyễn Thị Anh Nhi,NhiNTACS150683@fpt.edu.vn
+CS150686,NhanBNTCS150686,Bùi,Nguyễn Trọng,Nhân,Bùi Nguyễn Trọng Nhân,NhanBNTCS150686@fpt.edu.vn
+CS150735,BaoTNCS150735,Tô,Ngọc,Bảo,Tô Ngọc Bảo,BaoTNCS150735@fpt.edu.vn
+CS150753,NghiVTMCS150753,Võ,Thị Mộng,Nghi,Võ Thị Mộng Nghi,NghiVTMCS150753@fpt.edu.vn
+CS150772,NganNTTCS150772,Nguyễn,Trang Thanh,Ngân,Nguyễn Trang Thanh Ngân,NganNTTCS150772@fpt.edu.vn
+CA150266,HaDPTCA150266,Đinh,Phạm Thu,Hà,Đinh Phạm Thu Hà,HaDPTCA150266@fpt.edu.vn
+CE150475,KhangTTCE150475,Trần,Thanh,Khang,Trần Thanh Khang,KhangTTCE150475@fpt.edu.vn
+CS150139,GiangLHCS150139,Lê,Hoàng,Giang,Lê Hoàng Giang,GiangLHCS150139@fpt.edu.vn
+CS150152,TranCMCS150152,Cao,Minh,Trân,Cao Minh Trân,TranCMCS150152@fpt.edu.vn
+CS150163,TaiHHCS150163,Huỳnh,Hữu,Tài,Huỳnh Hữu Tài,TaiHHCS150163@fpt.edu.vn
+CS150191,TranNKCS150191,Nguyễn,Kim,Trân,Nguyễn Kim Trân,TranNKCS150191@fpt.edu.vn
+CS150221,ThienNTNCS150221,Nguyễn,Trần Nhựt,Thiện,Nguyễn Trần Nhựt Thiện,ThienNTNCS150221@fpt.edu.vn
+CS150229,SonNNCS150229,Nguyễn,Ngọc,Sơn,Nguyễn Ngọc Sơn,SonNNCS150229@fpt.edu.vn
+CS150294,TranTTNCS150294,Trần,Thị Ngọc,Trân,Trần Thị Ngọc Trân,TranTTNCS150294@fpt.edu.vn
+CS150300,TrinhDTTCS150300,Dương,Thị Tú,Trinh,Dương Thị Tú Trinh,TrinhDTTCS150300@fpt.edu.vn
+CS150322,HanhNMCS150322,Nguyễn,Minh,Hạnh,Nguyễn Minh Hạnh,HanhNMCS150322@fpt.edu.vn
+CS150356,VanPTCS150356,Phan,Thanh,Vân,Phan Thanh Vân,VanPTCS150356@fpt.edu.vn
+CS150392,TranVTBCS150392,Võ,Thị Bảo,Trân,Võ Thị Bảo Trân,TranVTBCS150392@fpt.edu.vn
+CS150450,TuyenNDNCS150450,Nguyễn,Đặng Ngân,Tuyên,Nguyễn Đặng Ngân Tuyên,TuyenNDNCS150450@fpt.edu.vn
+CS150484,DuongNHCS150484,Nguyễn,Hải,Dương,Nguyễn Hải Dương,DuongNHCS150484@fpt.edu.vn
+CS150485,DuyNACS150485,Nguyễn,Anh,Duy,Nguyễn Anh Duy,DuyNACS150485@fpt.edu.vn
+CS150488,VyGTCS150488,Giang,Thảo,Vy,Giang Thảo Vy,VyGTCS150488@fpt.edu.vn
+CS150495,HaKHNCS150495,Kim,Huỳnh Nhựt,Hạ,Kim Huỳnh Nhựt Hạ,HaKHNCS150495@fpt.edu.vn
+CS150536,HanNGCS150536,Nguyễn,Gia,Hân,Nguyễn Gia Hân,HanNGCS150536@fpt.edu.vn
+CS150551,ThuTTMCS150551,Trần,Thị Minh,Thư,Trần Thị Minh Thư,ThuTTMCS150551@fpt.edu.vn
+CS150588,TrungPTBCS150588,Phạm,Thái Bảo,Trung,Phạm Thái Bảo Trung,TrungPTBCS150588@fpt.edu.vn
+CS150606,TrangDTTCS150606,Đinh,Thụy Thùy,Trang,Đinh Thụy Thùy Trang,TrangDTTCS150606@fpt.edu.vn
+CS150614,NhiNYCS150614,Ngô,Yến,Nhi,Ngô Yến Nhi,NhiNYCS150614@fpt.edu.vn
+CS150634,CamNNCS150634,Nguyễn,Ngọc,Cẩm,Nguyễn Ngọc Cẩm,CamNNCS150634@fpt.edu.vn
+CS150693,AnhTKCS150693,Trang,Kỳ,Anh,Trang Kỳ Anh,AnhTKCS150693@fpt.edu.vn
+CS150758,AnhLHMCS150758,Lê,Hà Minh,Anh,Lê Hà Minh Anh,AnhLHMCS150758@fpt.edu.vn
+CS150761,BaoNQCS150761,Ngô,Quốc,Bảo,Ngô Quốc Bảo,BaoNQCS150761@fpt.edu.vn
+CS150768,QuynhTTNCS150768,Trần,Thị Như,Quỳnh,Trần Thị Như Quỳnh,QuynhTTNCS150768@fpt.edu.vn
+CS150776,NganNTPCS150776,Nguyễn,Thị Phương,Ngân,Nguyễn Thị Phương Ngân,NganNTPCS150776@fpt.edu.vn
+CE150081,DuyDNTCE150081,Đặng,Ngọc Tùng,Duy,Đặng Ngọc Tùng Duy,DuyDNTCE150081@fpt.edu.vn
+CE150082,VuNACE150082,Nguyễn,Anh,Vũ,Nguyễn Anh Vũ,VuNACE150082@fpt.edu.vn
+CE150868,ThanhLTCE150868,Lâm,Trung,Thành,Lâm Trung Thành,ThanhLTCE150868@fpt.edu.vn
+CS150001,UyenLMPCS150001,Lý,Minh Phương,Uyên,Lý Minh Phương Uyên,UyenLMPCS150001@fpt.edu.vn
+CS150105,ThienLBHCS150105,Lê,Bá Hải,Thiên,Lê Bá Hải Thiên,ThienLBHCS150105@fpt.edu.vn
+CS150180,ThinhHQCS150180,Huỳnh,Quốc,Thịnh,Huỳnh Quốc Thịnh,ThinhHQCS150180@fpt.edu.vn
+CS150184,ThanhMDCS150184,Mai,Đức,Thành,Mai Đức Thành,ThanhMDCS150184@fpt.edu.vn
+CS150185,KhanhHNTCS150185,Huỳnh,Nguyễn Tuấn,Khanh,Huỳnh Nguyễn Tuấn Khanh,KhanhHNTCS150185@fpt.edu.vn
+CS150233,NhaPTCS150233,Phạm,Thanh,Nhã,Phạm Thanh Nhã,NhaPTCS150233@fpt.edu.vn
+CS150263,TuyenNTBCS150263,Nguyễn,Thị Bích,Tuyền,Nguyễn Thị Bích Tuyền,TuyenNTBCS150263@fpt.edu.vn
+CS150264,HienTTMCS150264,Trần,Thị Mỹ,Hiền,Trần Thị Mỹ Hiền,HienTTMCS150264@fpt.edu.vn
+CS150282,NhiNHYCS150282,Ngô,Huỳnh Yến,Nhi,Ngô Huỳnh Yến Nhi,NhiNHYCS150282@fpt.edu.vn
+CS150325,KhaiNHCS150325,Nguyễn,Hoàng,Khải,Nguyễn Hoàng Khải,KhaiNHCS150325@fpt.edu.vn
+CS150330,KieuDTNCS150330,Đào,Thị Ngọc,Kiều,Đào Thị Ngọc Kiều,KieuDTNCS150330@fpt.edu.vn
+CS150339,LinhLBCS150339,Lý,Bá,Linh,Lý Bá Linh,LinhLBCS150339@fpt.edu.vn
+CS150365,NhiNNCS150365,Nguyễn,Nhạn,Nhi,Nguyễn Nhạn Nhi,NhiNNCS150365@fpt.edu.vn
+CS150410,TanTMCS150410,Trần,Minh,Tân,Trần Minh Tân,TanTMCS150410@fpt.edu.vn
+CS150547,QuyenLVPCS150547,Lê,Võ Phương,Quyên,Lê Võ Phương Quyên,QuyenLVPCS150547@fpt.edu.vn
+CS150555,ViNTCS150555,Nguyễn,Trúc,Vi,Nguyễn Trúc Vi,ViNTCS150555@fpt.edu.vn
+CS150560,ThinhNTCS150560,Nguyễn,Trường,Thịnh,Nguyễn Trường Thịnh,ThinhNTCS150560@fpt.edu.vn
+CS150592,LocHPCS150592,Hà,Phước,Lộc,Hà Phước Lộc,LocHPCS150592@fpt.edu.vn
+CS150616,KhangDDCS150616,Đặng,Duy,Khang,Đặng Duy Khang,KhangDDCS150616@fpt.edu.vn
+CS150631,VinhBQCS150631,Bùi,Quang,Vinh,Bùi Quang Vinh,VinhBQCS150631@fpt.edu.vn
+CS150637,ThuyNTPCS150637,Nguyễn,Thị Phương,Thùy,Nguyễn Thị Phương Thùy,ThuyNTPCS150637@fpt.edu.vn
+CS150647,UyenNNPCS150647,Ngô,Nguyễn Phương,Uyên,Ngô Nguyễn Phương Uyên,UyenNNPCS150647@fpt.edu.vn
+CS150702,TuongTCCS150702,Triệu,Cát,Tường,Triệu Cát Tường,TuongTCCS150702@fpt.edu.vn
+CE150033,TrangPQCE150033,Phạm,Quốc,Trạng,Phạm Quốc Trạng,TrangPQCE150033@fpt.edu.vn
+CE150059,ThinhPPCE150059,Phan,Phú,Thịnh,Phan Phú Thịnh,ThinhPPCE150059@fpt.edu.vn
+CE150061,NamTDLCE150061,Trần,Đại Lĩnh,Nam,Trần Đại Lĩnh Nam,NamTDLCE150061@fpt.edu.vn
+CE150092,KhangLTVCE150092,Lương,Tống Vĩnh,Khang,Lương Tống Vĩnh Khang,KhangLTVCE150092@fpt.edu.vn
+CE150108,ThuDNMCE150108,Đặng,Nguyễn Minh,Thư,Đặng Nguyễn Minh Thư,ThuDNMCE150108@fpt.edu.vn
+CE150110,HuyHKCE150110,Huỳnh,Khải,Huy,Huỳnh Khải Huy,HuyHKCE150110@fpt.edu.vn
+CE150200,PhongVTCE150200,Võ,Thanh,Phong,Võ Thanh Phong,PhongVTCE150200@fpt.edu.vn
+CE150216,NhiTTCE150216,Trần,Tuyết,Nhi,Trần Tuyết Nhi,NhiTTCE150216@fpt.edu.vn
+CE150220,AnPTTCE150220,Phạm,Trần Thiên,Ân,Phạm Trần Thiên Ân,AnPTTCE150220@fpt.edu.vn
+CE150240,BangDDHCE150240,Đặng,Đỗ Hữu,Bằng,Đặng Đỗ Hữu Bằng,BangDDHCE150240@fpt.edu.vn
+CE150289,YenNTNCE150289,Nguyễn,Thị Ngọc,Yến,Nguyễn Thị Ngọc Yến,YenNTNCE150289@fpt.edu.vn
+CE150352,AiNHCE150352,Nguyễn,Hồng,Ái,Nguyễn Hồng Ái,AiNHCE150352@fpt.edu.vn
+CE150394,PhucHTCE150394,Huỳnh,Tấn,Phúc,Huỳnh Tấn Phúc,PhucHTCE150394@fpt.edu.vn
+CE150416,AiBTCE150416,Bùi,Thúy,Ái,Bùi Thúy Ái,AiBTCE150416@fpt.edu.vn
+CE150471,HungLQCE150471,Lê,Quốc,Hùng,Lê Quốc Hùng,HungLQCE150471@fpt.edu.vn
+CE150493,ThinhPDLCE150493,Phạm,Đặng Lan,Thịnh,Phạm Đặng Lan Thịnh,ThinhPDLCE150493@fpt.edu.vn
+CE150519,DuyNKCE150519,Nguyễn,Khánh,Duy,Nguyễn Khánh Duy,DuyNKCE150519@fpt.edu.vn
+CE150521,HaoTVCE150521,Trần,Văn,Hảo,Trần Văn Hảo,HaoTVCE150521@fpt.edu.vn
+CE150596,ThanhCNDCE150596,Châu,Nguyễn Duy,Thanh,Châu Nguyễn Duy Thanh,ThanhCNDCE150596@fpt.edu.vn
+CE150623,TinTTCE150623,Trương,Trung,Tín,Trương Trung Tín,TinTTCE150623@fpt.edu.vn
+CE150657,NhanNTCE150657,Nguyễn,Trọng,Nhân,Nguyễn Trọng Nhân,NhanNTCE150657@fpt.edu.vn
+CE150659,HauPCCE150659,Phan,Công,Hậu,Phan Công Hậu,HauPCCE150659@fpt.edu.vn
+CE150711,CuongTTCE150711,Trần,Tấn,Cường,Trần Tấn Cường,CuongTTCE150711@fpt.edu.vn
+CE150718,DatLTCE150718,Lý,Tuấn,Đạt,Lý Tuấn Đạt,DatLTCE150718@fpt.edu.vn
+CE150728,TrinhTTCE150728,Trần,Thị,Trinh,Trần Thị Trinh,TrinhTTCE150728@fpt.edu.vn
+CE150748,ToLVCE150748,Lê,Văn,To,Lê Văn To,ToLVCE150748@fpt.edu.vn
+CE150764,ThienNHCE150764,Nguyễn,Hoàng,Thiện,Nguyễn Hoàng Thiện,ThienNHCE150764@fpt.edu.vn
+CA150025,TranLNTCA150025,Lý,Ngọc Trân,Trân,Lý Ngọc Trân Trân,TranLNTCA150025@fpt.edu.vn
+CA150077,NgocMHCA150077,Mạch,Hải,Ngọc,Mạch Hải Ngọc,NgocMHCA150077@fpt.edu.vn
+CA150087,ThongNHBCA150087,Ngô,Hoàng Bá,Thông,Ngô Hoàng Bá Thông,ThongNHBCA150087@fpt.edu.vn
+CA150102,NghiTGCA150102,Trần,Gia,Nghi,Trần Gia Nghi,NghiTGCA150102@fpt.edu.vn
+CA150134,BangNTHCA150134,Nguyễn,Tô Hữu,Bằng,Nguyễn Tô Hữu Bằng,BangNTHCA150134@fpt.edu.vn
+CA150157,NganBTTTCA150157,Bùi,Thị Thanh Tuyết,Ngân,Bùi Thị Thanh Tuyết Ngân,NganBTTTCA150157@fpt.edu.vn
+CA150186,LyHNCA150186,Hồ,Nguyên,Lý,Hồ Nguyên Lý,LyHNCA150186@fpt.edu.vn
+CA150290,NhiLNYCA150290,Lại,Nguyễn Yến,Nhi,Lại Nguyễn Yến Nhi,NhiLNYCA150290@fpt.edu.vn
+CA150296,NhuHCA150296,Huỳnh,,Như,Huỳnh  Như,NhuHCA150296@fpt.edu.vn
+CA150398,ThieuNHCA150398,Nhâm,Hoàng,Thiệu,Nhâm Hoàng Thiệu,ThieuNHCA150398@fpt.edu.vn
+CA150437,BinhHTNCA150437,Hồ,Thị Nhật,Bình,Hồ Thị Nhật Bình,BinhHTNCA150437@fpt.edu.vn
+CA150512,NhiPYCA150512,Phan,Yến,Nhi,Phan Yến Nhi,NhiPYCA150512@fpt.edu.vn
+CA150630,NhienTTHCA150630,Tuyết,Thị Hồng,Nhiên,Tuyết Thị Hồng Nhiên,NhienTTHCA150630@fpt.edu.vn
+CE150007,NguyenLKCE150007,Liu,Kinh,Nguyện,Liu Kinh Nguyện,NguyenLKCE150007@fpt.edu.vn
+CE150018,NhiBTTCE150018,Bùi,Thị Tuyết,Nhi,Bùi Thị Tuyết Nhi,NhiBTTCE150018@fpt.edu.vn
+CE150114,NguyenTCE150114,Trần,,Nguyễn,Trần  Nguyễn,NguyenTCE150114@fpt.edu.vn
+CE150132,ThanhLMCE150132,Lê,Minh,Thành,Lê Minh Thành,ThanhLMCE150132@fpt.edu.vn
+CE150245,ThanhHMCE150245,Hà,Minh,Thành,Hà Minh Thành,ThanhHMCE150245@fpt.edu.vn
+CE150336,ToanNHCE150336,Nguyễn,Hữu,Toàn,Nguyễn Hữu Toàn,ToanNHCE150336@fpt.edu.vn
+CE150371,PhungNKCE150371,Ngũ,Kim,Phụng,Ngũ Kim Phụng,PhungNKCE150371@fpt.edu.vn
+CE150390,TienLCE150390,Lê,,Tiến,Lê  Tiến,TienLCE150390@fpt.edu.vn
+CE150562,HuyNACE150562,Nguyễn,Anh,Huy,Nguyễn Anh Huy,HuyNACE150562@fpt.edu.vn
+CE150611,PhuNVCE150611,Nguyễn,Văn,Phú,Nguyễn Văn Phú,PhuNVCE150611@fpt.edu.vn
+CE150654,LuanNTHCE150654,Nguyễn,Trương Hữu,Luân,Nguyễn Trương Hữu Luân,LuanNTHCE150654@fpt.edu.vn
+CE150669,NhiHLTCE150669,Huỳnh,Lưu Thiên,Nhi,Huỳnh Lưu Thiên Nhi,NhiHLTCE150669@fpt.edu.vn
+CE150715,KienBQVTCE150715,Bùi,Quan Võ Trung,Kiên,Bùi Quan Võ Trung Kiên,KienBQVTCE150715@fpt.edu.vn
+CS150704,VanVCCS150704,Võ,Cẩm,Vân,Võ Cẩm Vân,VanVCCS150704@fpt.edu.vn
+CS150786,KhaiNMCS150786,Nguyễn,Minh,Khải,Nguyễn Minh Khải,KhaiNMCS150786@fpt.edu.vn
+CA150028,YVNCA150028,Võ,Như,Ý,Võ Như Ý,YVNCA150028@fpt.edu.vn
+CA150094,TaiNTCA150094,Nguyễn,Thành,Tài,Nguyễn Thành Tài,TaiNTCA150094@fpt.edu.vn
+CA150252,HuongNTCA150252,Nguyễn,Thanh,Hương,Nguyễn Thanh Hương,HuongNTCA150252@fpt.edu.vn
+CA150268,YLTNCA150268,Lê,Thị Như,Ý,Lê Thị Như Ý,YLTNCA150268@fpt.edu.vn
+CA150287,NgocNTCA150287,Nguyễn,Thanh,Ngọc,Nguyễn Thanh Ngọc,NgocNTCA150287@fpt.edu.vn
+CA150292,VuDVCA150292,Dương,Văn,Vũ,Dương Văn Vũ,VuDVCA150292@fpt.edu.vn
+CA150308,NhiDHCA150308,Dương,Huyền,Nhi,Dương Huyền Nhi,NhiDHCA150308@fpt.edu.vn
+CA150388,KhanhTGCA150388,Trần,Gia,Khánh,Trần Gia Khánh,KhanhTGCA150388@fpt.edu.vn
+CA150389,HanNHKCA150389,Nguyễn,Huỳnh Khả,Hân,Nguyễn Huỳnh Khả Hân,HanNHKCA150389@fpt.edu.vn
+CA150427,NhiNNTCA150427,Nguyễn,Ngọc Tuyết,Nhi,Nguyễn Ngọc Tuyết Nhi,NhiNNTCA150427@fpt.edu.vn
+CA150510,LapTTGCA150510,Trần,Thái Gia,Lập,Trần Thái Gia Lập,LapTTGCA150510@fpt.edu.vn
+CA150523,MyNNHCA150523,Nguyễn,Ngọc Hoàng,My,Nguyễn Ngọc Hoàng My,MyNNHCA150523@fpt.edu.vn
+CA150533,NhiTYCA150533,Tiêu,Yến,Nhi,Tiêu Yến Nhi,NhiTYCA150533@fpt.edu.vn
+CA150540,NhiTTYCA150540,Trương,Thị Yến,Nhi,Trương Thị Yến Nhi,NhiTTYCA150540@fpt.edu.vn
+CA150583,PhuongPTCA150583,Phạm,Thanh,Phương,Phạm Thanh Phương,PhuongPTCA150583@fpt.edu.vn
+CA150624,NgocLTYCA150624,Lê,Thị Yến,Ngọc,Lê Thị Yến Ngọc,NgocLTYCA150624@fpt.edu.vn
+CA150627,DuongLCCA150627,Lâm,Chấn,Dương,Lâm Chấn Dương,DuongLCCA150627@fpt.edu.vn
+CA150668,QuynhNTMCA150668,Nguyễn,Thị Mai,Quỳnh,Nguyễn Thị Mai Quỳnh,QuynhNTMCA150668@fpt.edu.vn
+CA150684,HaoNTCA150684,Nguyễn,Thanh,Hào,Nguyễn Thanh Hào,HaoNTCA150684@fpt.edu.vn
+CA150734,ThanhNHCA150734,Nguyễn,Huy,Thành,Nguyễn Huy Thành,ThanhNHCA150734@fpt.edu.vn
+CA150769,HaoHTCA150769,Huỳnh,Tôn,Hào,Huỳnh Tôn Hào,HaoHTCA150769@fpt.edu.vn
+CE150047,TrietTMCE150047,Trương,Minh,Triết,Trương Minh Triết,TrietTMCE150047@fpt.edu.vn
+CE150133,TuTMCE150133,Trương,Minh,Tứ,Trương Minh Tứ,TuTMCE150133@fpt.edu.vn
+CE150305,TranNBCE150305,Ngô,Bảo,Trân,Ngô Bảo Trân,TranNBCE150305@fpt.edu.vn
+CE150615,UyenNMCE150615,Ngô,Mỹ,Uyên,Ngô Mỹ Uyên,UyenNMCE150615@fpt.edu.vn
+CA150155,TienLHCA150155,Lê,Hoàng,Tiến,Lê Hoàng Tiến,TienLHCA150155@fpt.edu.vn
+CA150232,TueLNMCA150232,Lê,Nguyễn Minh,Tuệ,Lê Nguyễn Minh Tuệ,TueLNMCA150232@fpt.edu.vn
+CA150286,VyPDTCA150286,Phạm,Dương Tường,Vy,Phạm Dương Tường Vy,VyPDTCA150286@fpt.edu.vn
+CA150368,ThyBDCA150368,Bùi,Diễm,Thy,Bùi Diễm Thy,ThyBDCA150368@fpt.edu.vn
+CA150546,TuyenHKCA150546,Huỳnh,Kim,Tuyến,Huỳnh Kim Tuyến,TuyenHKCA150546@fpt.edu.vn
+CA150567,ThaoNTCA150567,Nguyễn,Thanh,Thảo,Nguyễn Thanh Thảo,ThaoNTCA150567@fpt.edu.vn
+CA150666,VyNTKCA150666,Nguyễn,Thị Khánh,Vy,Nguyễn Thị Khánh Vy,VyNTKCA150666@fpt.edu.vn
+CA150759,GiauLNCA150759,Lê,Ngọc,Giàu,Lê Ngọc Giàu,GiauLNCA150759@fpt.edu.vn
+CA150765,LongPTCA150765,Phan,Thanh,Long,Phan Thanh Long,LongPTCA150765@fpt.edu.vn
+CA150766,KhanhNTYCA150766,Nguyễn,Thị Yến,Khanh,Nguyễn Thị Yến Khanh,KhanhNTYCA150766@fpt.edu.vn
+CA150771,HangVTCA150771,Võ,Thanh,Hằng,Võ Thanh Hằng,HangVTCA150771@fpt.edu.vn
+CA150773,TrieuTLHCA150773,Trần,Lê Hải,Triều,Trần Lê Hải Triều,TrieuTLHCA150773@fpt.edu.vn
+CE150506,AnhHNTCE150506,Hà,Nguyễn Tuấn,Anh,Hà Nguyễn Tuấn Anh,AnhHNTCE150506@fpt.edu.vn
+CS150038,DuyenPMCS150038,Phạm,Mỹ,Duyên,Phạm Mỹ Duyên,DuyenPMCS150038@fpt.edu.vn
+CS150074,DucBQCS150074,Bùi,Quang,Đức,Bùi Quang Đức,DucBQCS150074@fpt.edu.vn
+CS150151,PhongDTCS150151,Đinh,Triều,Phong,Đinh Triều Phong,PhongDTCS150151@fpt.edu.vn
+CS150160,HuyNDCS150160,Nguyễn,Đăng,Huy,Nguyễn Đăng Huy,HuyNDCS150160@fpt.edu.vn
+CS150301,DuyNACS150301,Nguyễn,Anh,Duy,Nguyễn Anh Duy,DuyNACS150301@fpt.edu.vn
+CS150316,MinhLCCS150316,Lê,Công,Minh,Lê Công Minh,MinhLCCS150316@fpt.edu.vn
+CS150349,MaiNTNCS150349,Nguyễn,Thị Ngọc,Mai,Nguyễn Thị Ngọc Mai,MaiNTNCS150349@fpt.edu.vn
+CS150376,NhiTLYCS150376,Trần,Lê Yến,Nhi,Trần Lê Yến Nhi,NhiTLYCS150376@fpt.edu.vn
+CS150397,NghiTMCS150397,Trương,Mộng,Nghi,Trương Mộng Nghi,NghiTMCS150397@fpt.edu.vn
+CS150490,PhucTHCS150490,Trần,Hồng,Phúc,Trần Hồng Phúc,PhucTHCS150490@fpt.edu.vn
+CS150498,AnhPTCS150498,Phan,Thảo,Anh,Phan Thảo Anh,AnhPTCS150498@fpt.edu.vn
+CS150516,NhutLHMCS150516,Lê,Hoàng Minh,Nhựt,Lê Hoàng Minh Nhựt,NhutLHMCS150516@fpt.edu.vn
+CS150558,AnhKTCS150558,Khuất,Tuấn,Anh,Khuất Tuấn Anh,AnhKTCS150558@fpt.edu.vn
+CS150571,NhuLHCS150571,Lê,Huỳnh,Như,Lê Huỳnh Như,NhuLHCS150571@fpt.edu.vn
+CS150598,KhoaTMCS150598,Trần,Minh,Khoa,Trần Minh Khoa,KhoaTMCS150598@fpt.edu.vn
+CA150480,NguyenBPCA150480,Bùi,Phúc,Nguyên,Bùi Phúc Nguyên,NguyenBPCA150480@fpt.edu.vn
+CS150057,HieuVNCS150057,Vũ,Ngọc,Hiếu,Vũ Ngọc Hiếu,HieuVNCS150057@fpt.edu.vn
+CS150064,ChauPNCS150064,Phan,Ngọc,Châu,Phan Ngọc Châu,ChauPNCS150064@fpt.edu.vn
+CS150104,ThoLNDCS150104,Lâm,Nguyễn Duy,Thọ,Lâm Nguyễn Duy Thọ,ThoLNDCS150104@fpt.edu.vn
+CS150144,LongTQCS150144,Trầm,Quang,Long,Trầm Quang Long,LongTQCS150144@fpt.edu.vn
+CS150150,DienNNCS150150,Nguyễn,Ngọc,Điền,Nguyễn Ngọc Điền,DienNNCS150150@fpt.edu.vn
+CS150166,HuyenNMCS150166,Ngô,Mỹ,Huyền,Ngô Mỹ Huyền,HuyenNMCS150166@fpt.edu.vn
+CS150224,ThangNHCS150224,Nguyễn,Hùng,Thắng,Nguyễn Hùng Thắng,ThangNHCS150224@fpt.edu.vn
+CS150285,ThanhPYCS150285,Phạm,Yến,Thanh,Phạm Yến Thanh,ThanhPYCS150285@fpt.edu.vn
+CS150338,ThienPMCS150338,Phạm,Minh,Thiện,Phạm Minh Thiện,ThienPMCS150338@fpt.edu.vn
+CS150359,PhuongPTTCS150359,Phan,Thị Thanh,Phượng,Phan Thị Thanh Phượng,PhuongPTTCS150359@fpt.edu.vn
+CS150366,MaiNDTCS150366,Nguyễn,Đình Thi,Mai,Nguyễn Đình Thi Mai,MaiNDTCS150366@fpt.edu.vn
+CS150443,HanNLNCS150443,Nguyễn,Lê Ngọc,Hân,Nguyễn Lê Ngọc Hân,HanNLNCS150443@fpt.edu.vn
+CS150489,HuongNTBCS150489,Nguyễn,Thị Bích,Hường,Nguyễn Thị Bích Hường,HuongNTBCS150489@fpt.edu.vn
+CS150511,QuangLVCS150511,Lê,Việt,Quang,Lê Việt Quang,QuangLVCS150511@fpt.edu.vn
+CS150524,SungLCS150524,Lâm,,Sung,Lâm  Sung,SungLCS150524@fpt.edu.vn
+CS150642,TrucPTTCS150642,Phạm,Thị Thanh,Trúc,Phạm Thị Thanh Trúc,TrucPTTCS150642@fpt.edu.vn
+CS150645,TriNMCS150645,Nguyễn,Minh,Trí,Nguyễn Minh Trí,TriNMCS150645@fpt.edu.vn
+CS150676,KhanhTTCS150676,Trương,Tấn,Khanh,Trương Tấn Khanh,KhanhTTCS150676@fpt.edu.vn
+CS150699,ThienPHCS150699,Phạm,Huỳnh,Thiên,Phạm Huỳnh Thiên,ThienPHCS150699@fpt.edu.vn
+CS150708,TienDMCS150708,Dương,Mỹ,Tiên,Dương Mỹ Tiên,TienDMCS150708@fpt.edu.vn
+CS150713,VyTQCS150713,Trương,Quốc,Vỹ,Trương Quốc Vỹ,VyTQCS150713@fpt.edu.vn
+CS150731,GiauNQCS150731,Nguyễn,Quang,Giàu,Nguyễn Quang Giàu,GiauNQCS150731@fpt.edu.vn
+CS150737,KhenLACS150737,Lý,Ái,Khên,Lý Ái Khên,KhenLACS150737@fpt.edu.vn
+CS150744,ThuHLMCS150744,Huỳnh,Lê Minh,Thư,Huỳnh Lê Minh Thư,ThuHLMCS150744@fpt.edu.vn
+CS150747,HuyDVCS150747,Đinh,Việt,Huy,Đinh Việt Huy,HuyDVCS150747@fpt.edu.vn
+CA150531,HanTNCA150531,Tô,Ngọc,Hân,Tô Ngọc Hân,HanTNCA150531@fpt.edu.vn
+CE150730,CuongNQCE150730,Nguyễn,Quang,Cường,Nguyễn Quang Cường,CuongNQCE150730@fpt.edu.vn
+CS150043,MinhPNCS150043,Phan,Nhật,Minh,Phan Nhật Minh,MinhPNCS150043@fpt.edu.vn
+CS150071,NhiNLTCS150071,Nguyễn,Lê Thiên,Nhi,Nguyễn Lê Thiên Nhi,NhiNLTCS150071@fpt.edu.vn
+CS150111,VyNHTCS150111,Nguyễn,Hoàng Thanh,Vy,Nguyễn Hoàng Thanh Vy,VyNHTCS150111@fpt.edu.vn
+CS150137,HungPMCS150137,Phạm,Minh,Hưng,Phạm Minh Hưng,HungPMCS150137@fpt.edu.vn
+CS150167,UyenNTTCS150167,Nguyễn,Thị Tú,Uyên,Nguyễn Thị Tú Uyên,UyenNTTCS150167@fpt.edu.vn
+CS150260,TiNaKCS150260,Koh,,TiNa,Koh  TiNa,TiNaKCS150260@fpt.edu.vn
+CS150357,TranLTNCS150357,Lâm,Thị Ngọc,Trân,Lâm Thị Ngọc Trân,TranLTNCS150357@fpt.edu.vn
+CS150360,KhanhLTTCS150360,Lê,Trương Thụy,Khanh,Lê Trương Thụy Khanh,KhanhLTTCS150360@fpt.edu.vn
+CS150384,DuongTHCS150384,Trần,Hải,Đường,Trần Hải Đường,DuongTHCS150384@fpt.edu.vn
+CS150414,TrungNTCS150414,Nguyễn,Thành,Trung,Nguyễn Thành Trung,TrungNTCS150414@fpt.edu.vn
+CS150461,HanNNCS150461,Nguyễn,Ngọc,Hân,Nguyễn Ngọc Hân,HanNNCS150461@fpt.edu.vn
+CS150472,PhungPVCS150472,Phạm,Văn,Phụng,Phạm Văn Phụng,PhungPVCS150472@fpt.edu.vn
+CS150476,ThienTPTCS150476,Trương,Phù Thanh,Thiên,Trương Phù Thanh Thiên,ThienTPTCS150476@fpt.edu.vn
+CS150573,ThinhHDHCS150573,Hoàng,Dương Hưng,Thịnh,Hoàng Dương Hưng Thịnh,ThinhHDHCS150573@fpt.edu.vn
+CS150579,PhucNHCS150579,Nguyễn,Hoàng,Phúc,Nguyễn Hoàng Phúc,PhucNHCS150579@fpt.edu.vn
+CS150600,DangNHCS150600,Nguyễn,Hải,Đăng,Nguyễn Hải Đăng,DangNHCS150600@fpt.edu.vn
+CS150604,TienNTKCS150604,Nguyễn,Thị Kiều,Tiên,Nguyễn Thị Kiều Tiên,TienNTKCS150604@fpt.edu.vn
+CS150626,YDHTXCS150626,Đỗ,Hoàng Thị Xuân,Ý,Đỗ Hoàng Thị Xuân Ý,YDHTXCS150626@fpt.edu.vn
+CS150667,AnhPNMCS150667,Phạm,Nguyễn Minh,Anh,Phạm Nguyễn Minh Anh,AnhPNMCS150667@fpt.edu.vn
+CS150678,ThanhNTPCS150678,Nguyễn,Trần Phương,Thanh,Nguyễn Trần Phương Thanh,ThanhNTPCS150678@fpt.edu.vn
+CS150688,TuongLCNCS150688,Lê,Châu Ngọc,Tường,Lê Châu Ngọc Tường,TuongLCNCS150688@fpt.edu.vn
+CS150717,UyenPNTCS150717,Phan,Nguyễn Thảo,Uyên,Phan Nguyễn Thảo Uyên,UyenPNTCS150717@fpt.edu.vn
+CS150741,TranLTHCS150741,Lâm,Thị Huyền,Trân,Lâm Thị Huyền Trân,TranLTHCS150741@fpt.edu.vn
+CS150751,DuyVMCS150751,Võ,Minh,Duy,Võ Minh Duy,DuyVMCS150751@fpt.edu.vn
+CS150002,YenHBCS150002,Hồ,Bảo,Yến,Hồ Bảo Yến,YenHBCS150002@fpt.edu.vn
+CS150005,YenLHCS150005,Lâm,Hải,Yến,Lâm Hải Yến,YenLHCS150005@fpt.edu.vn
+CS150050,NhiLKSCS150050,Lê,Khả Song,Nhi,Lê Khả Song Nhi,NhiLKSCS150050@fpt.edu.vn
+CS150116,QuyenVPCS150116,Võ,Phương,Quyên,Võ Phương Quyên,QuyenVPCS150116@fpt.edu.vn
+CS150146,TienBMCS150146,Bùi,Mỹ,Tiên,Bùi Mỹ Tiên,TienBMCS150146@fpt.edu.vn
+CS150205,PhongNNTCS150205,Ngô,Nguyễn Thanh,Phong,Ngô Nguyễn Thanh Phong,PhongNNTCS150205@fpt.edu.vn
+CS150219,KimLNBCS150219,Lê,Nguyễn Bạch,Kim,Lê Nguyễn Bạch Kim,KimLNBCS150219@fpt.edu.vn
+CS150257,KimTHGCS150257,Trần,Hoàng Gia,Kim,Trần Hoàng Gia Kim,KimTHGCS150257@fpt.edu.vn
+CS150276,LamNDHCS150276,Nguyễn,Đỗ Hoàng,Lảm,Nguyễn Đỗ Hoàng Lảm,LamNDHCS150276@fpt.edu.vn
+CS150328,LinhNHCS150328,Nguyễn,Hoài,Linh,Nguyễn Hoài Linh,LinhNHCS150328@fpt.edu.vn
+CS150370,KhueDTQCS150370,Đoàn,Trần Quang,Khuê,Đoàn Trần Quang Khuê,KhueDTQCS150370@fpt.edu.vn
+CS150396,TrietLMCS150396,Lê,Minh,Triết,Lê Minh Triết,TrietLMCS150396@fpt.edu.vn
+CS150399,TriNHCS150399,Nguyễn,Hữu,Trí,Nguyễn Hữu Trí,TriNHCS150399@fpt.edu.vn
+CS150419,NgocPBCS150419,Phan,Bảo,Ngọc,Phan Bảo Ngọc,NgocPBCS150419@fpt.edu.vn
+CS150421,UyenNPCS150421,Nguyễn,Phương,Uyên,Nguyễn Phương Uyên,UyenNPCS150421@fpt.edu.vn
+CS150479,KhanhLHMCS150479,Lê,Huỳnh Minh,Khánh,Lê Huỳnh Minh Khánh,KhanhLHMCS150479@fpt.edu.vn
+CS150487,ThinhHPCS150487,Huỳnh,Phúc,Thịnh,Huỳnh Phúc Thịnh,ThinhHPCS150487@fpt.edu.vn
+CS150494,ThongTCS150494,Trần,,Thông,Trần  Thông,ThongTCS150494@fpt.edu.vn
+CS150544,MyVTTCS150544,Võ,Trần Trúc,Mỹ,Võ Trần Trúc Mỹ,MyVTTCS150544@fpt.edu.vn
+CS150545,TrungNVCS150545,Nguyễn,Việt,Trung,Nguyễn Việt Trung,TrungNVCS150545@fpt.edu.vn
+CS150553,NinhDNCCS150553,Dương,Ngọc Cẩm,Ninh,Dương Ngọc Cẩm Ninh,NinhDNCCS150553@fpt.edu.vn
+CS150652,LinhLMCS150652,Lữ,Mai,Linh,Lữ Mai Linh,LinhLMCS150652@fpt.edu.vn
+CS150775,TramNTNCS150775,Nguyễn,Thị Ngọc,Trâm,Nguyễn Thị Ngọc Trâm,TramNTNCS150775@fpt.edu.vn
+CS150793,VyATCS150793,Âu,Tiểu,Vy,Âu Tiểu Vy,VyATCS150793@fpt.edu.vn
+CS150794,YenVHCS150794,Vũ,Hải,Yến,Vũ Hải Yến,YenVHCS150794@fpt.edu.vn
+CS150866,TanTNNCS150866,Trần,Nguyễn Nhật,Tân,Trần Nguyễn Nhật Tân,TanTNNCS150866@fpt.edu.vn
+CE150024,DanhLCCE150024,Lê,Công,Danh,Lê Công Danh,DanhLCCE150024@fpt.edu.vn
+CE150046,YenDTHCE150046,Đặng,Thị Hồng,Yến,Đặng Thị Hồng Yến,YenDTHCE150046@fpt.edu.vn
+CE150048,LongHBCE150048,Huỳnh,Bảo,Long,Huỳnh Bảo Long,LongHBCE150048@fpt.edu.vn
+CE150053,ChauNHCE150053,Nguyễn,Hải,Châu,Nguyễn Hải Châu,ChauNHCE150053@fpt.edu.vn
+CE150072,BaoTNQCE150072,Trần,Ngô Quốc,Bảo,Trần Ngô Quốc Bảo,BaoTNQCE150072@fpt.edu.vn
+CE150083,NgocLNCE150083,Lê,Như,Ngọc,Lê Như Ngọc,NgocLNCE150083@fpt.edu.vn
+CE150093,NhiPMCE150093,Phạm,Minh,Nhí,Phạm Minh Nhí,NhiPMCE150093@fpt.edu.vn
+CE150124,NhanNQTCE150124,Nguyễn,Quốc Trung,Nhân,Nguyễn Quốc Trung Nhân,NhanNQTCE150124@fpt.edu.vn
+CE150202,QuangTMCE150202,Trương,Minh,Quang,Trương Minh Quang,QuangTMCE150202@fpt.edu.vn
+CE150217,DucLDTCE150217,Lê,Đào Thiên,Đức,Lê Đào Thiên Đức,DucLDTCE150217@fpt.edu.vn
+CE150237,PhucNHCE150237,Nguyễn,Hoàng,Phúc,Nguyễn Hoàng Phúc,PhucNHCE150237@fpt.edu.vn
+CE150291,AnhBVVCE150291,Bùi,Võ Vân,Anh,Bùi Võ Vân Anh,AnhBVVCE150291@fpt.edu.vn
+CE150310,NguyenVMDCE150310,Võ,Minh Đặng,Nguyên,Võ Minh Đặng Nguyên,NguyenVMDCE150310@fpt.edu.vn
+CE150331,TriTTCCE150331,Trần,Thái Cao,Trí,Trần Thái Cao Trí,TriTTCCE150331@fpt.edu.vn
+CE150373,PhucLNHCE150373,Lý,Nguyễn Hoàng,Phúc,Lý Nguyễn Hoàng Phúc,PhucLNHCE150373@fpt.edu.vn
+CE150382,KhuongNGCE150382,Nguyễn,Gia,Khương,Nguyễn Gia Khương,KhuongNGCE150382@fpt.edu.vn
+CE150404,NhanDHCE150404,Đoàn,Hiếu,Nhân,Đoàn Hiếu Nhân,NhanDHCE150404@fpt.edu.vn
+CE150463,ThanhNTCE150463,Nguyễn,Tường,Thành,Nguyễn Tường Thành,ThanhNTCE150463@fpt.edu.vn
+CE150477,VyPNACE150477,Phạm,Ngọc Ái,Vy,Phạm Ngọc Ái Vy,VyPNACE150477@fpt.edu.vn
+CE150499,MaiTTHCE150499,Trần,Thị Hồng,Mai,Trần Thị Hồng Mai,MaiTTHCE150499@fpt.edu.vn
+CE150509,BaoLHQCE150509,Lê,Hoàng Quốc,Bảo,Lê Hoàng Quốc Bảo,BaoLHQCE150509@fpt.edu.vn
+CE150517,NhatTVMCE150517,Trịnh,Võ Minh,Nhật,Trịnh Võ Minh Nhật,NhatTVMCE150517@fpt.edu.vn
+CE150525,DuongPVCE150525,Phạm,Văn,Dương,Phạm Văn Dương,DuongPVCE150525@fpt.edu.vn
+CE150542,NhiHTCE150542,Hứa,Thảo,Nhi,Hứa Thảo Nhi,NhiHTCE150542@fpt.edu.vn
+CE150549,NguyetTMCE150549,Trần,Minh,Nguyệt,Trần Minh Nguyệt,NguyetTMCE150549@fpt.edu.vn
+CE150649,DuyLBCE150649,Lâm,Bảo,Duy,Lâm Bảo Duy,DuyLBCE150649@fpt.edu.vn
+CE150662,KhanhNDCE150662,Nguyễn,Đăng,Khánh,Nguyễn Đăng Khánh,KhanhNDCE150662@fpt.edu.vn
+CE150675,MyDTCE150675,Đinh,Trà,My,Đinh Trà My,MyDTCE150675@fpt.edu.vn
+CE150691,AnNNCE150691,Nguyễn,Nhật,An,Nguyễn Nhật An,AnNNCE150691@fpt.edu.vn
+CE150729,BaoPTCE150729,Phan,Thiên,Bảo,Phan Thiên Bảo,BaoPTCE150729@fpt.edu.vn
+CE150869,HuynhHHCE150869,Hồ,Hoàng,Huynh,Hồ Hoàng Huynh,HuynhHHCE150869@fpt.edu.vn
+CE150004,KhangTDCE150004,Thượng,Duy,Khang,Thượng Duy Khang,KhangTDCE150004@fpt.edu.vn
+CE150019,ThoTACE150019,Tiêu,Anh,Thọ,Tiêu Anh Thọ,ThoTACE150019@fpt.edu.vn
+CE150020,ThanhNDCE150020,Nguyễn,Đại,Thành,Nguyễn Đại Thành,ThanhNDCE150020@fpt.edu.vn
+CE150022,MinhDNCE150022,Đoàn,Ngọc,Minh,Đoàn Ngọc Minh,MinhDNCE150022@fpt.edu.vn
+CE150056,DanhLPTCE150056,Lê,Phạm Thành,Danh,Lê Phạm Thành Danh,DanhLPTCE150056@fpt.edu.vn
+CE150063,LamTTCE150063,Tống,Thanh,Lâm,Tống Thanh Lâm,LamTTCE150063@fpt.edu.vn
+CE150099,DatLTCE150099,Lê,Thành,Đạt,Lê Thành Đạt,DatLTCE150099@fpt.edu.vn
+CE150103,KhoiNMCE150103,Nguyễn,Minh,Khôi,Nguyễn Minh Khôi,KhoiNMCE150103@fpt.edu.vn
+CE150141,LongLHHCE150141,Lê,Hoàng Hải,Long,Lê Hoàng Hải Long,LongLHHCE150141@fpt.edu.vn
+CE150161,DuyenHMCE150161,Huỳnh,Mỹ,Duyên,Huỳnh Mỹ Duyên,DuyenHMCE150161@fpt.edu.vn
+CE150226,HoangNNCE150226,Nguyễn,Nhật,Hoàng,Nguyễn Nhật Hoàng,HoangNNCE150226@fpt.edu.vn
+CE150261,KietPTCE150261,Phạm,Tuấn,Kiệt,Phạm Tuấn Kiệt,KietPTCE150261@fpt.edu.vn
+CE150269,ToanTKCE150269,Trần,Khánh,Toàn,Trần Khánh Toàn,ToanTKCE150269@fpt.edu.vn
+CE150284,ViNHCE150284,Nguyễn,Hoàng,Vĩ,Nguyễn Hoàng Vĩ,ViNHCE150284@fpt.edu.vn
+CE150337,PhucNNHCE150337,Ngô,Nguyễn Hoàng,Phúc,Ngô Nguyễn Hoàng Phúc,PhucNNHCE150337@fpt.edu.vn
+CE150405,LocPBCE150405,Phạm,Bảo,Lộc,Phạm Bảo Lộc,LocPBCE150405@fpt.edu.vn
+CE150568,ThinhNPCE150568,Nguyễn,Phúc,Thịnh,Nguyễn Phúc Thịnh,ThinhNPCE150568@fpt.edu.vn
+CE150569,HaoLTCE150569,Lê,Trí,Hào,Lê Trí Hào,HaoLTCE150569@fpt.edu.vn
+CE150599,PhuTTCE150599,Trần,Thiện,Phú,Trần Thiện Phú,PhuTTCE150599@fpt.edu.vn
+CE150696,VyNLCE150696,Nguyễn,Lê,Vỹ,Nguyễn Lê Vỹ,VyNLCE150696@fpt.edu.vn
+CE150706,BinhTHCE150706,Trần,Hòa,Bình,Trần Hòa Bình,BinhTHCE150706@fpt.edu.vn
+CE150762,NguyenVGCE150762,Võ,Gia,Nguyên,Võ Gia Nguyên,NguyenVGCE150762@fpt.edu.vn
+CE150763,NganPTCE150763,Phan,Thanh,Ngân,Phan Thanh Ngân,NganPTCE150763@fpt.edu.vn
+CE150075,TanNMCE150075,Nguyễn,Mạnh,Tân,Nguyễn Mạnh Tân,TanNMCE150075@fpt.edu.vn
+CE150130,TienHQCE150130,Huỳnh,Quang,Tiên,Huỳnh Quang Tiên,TienHQCE150130@fpt.edu.vn
+CE150344,TuLXCE150344,Lê,Xuân,Tú,Lê Xuân Tú,TuLXCE150344@fpt.edu.vn
+CE150572,TienNVCE150572,Nguyễn,Văn,Tiến,Nguyễn Văn Tiến,TienNVCE150572@fpt.edu.vn
+CE150582,MinhHKCE150582,Hồ,Khả,Minh,Hồ Khả Minh,MinhHKCE150582@fpt.edu.vn
+CE150661,UyCHACE150661,Cao,Hoàng Anh,Uy,Cao Hoàng Anh Uy,UyCHACE150661@fpt.edu.vn
+CA150181,ToanNPCA150181,Ngô,Phước,Toàn,Ngô Phước Toàn,ToanNPCA150181@fpt.edu.vn
+CA150780,HuyVHCA150780,Võ,Hoàng,Huy,Võ Hoàng Huy,HuyVHCA150780@fpt.edu.vn
+CA150787,NhiVLUCA150787,Võ,Lê Uyển,Nhi,Võ Lê Uyển Nhi,NhiVLUCA150787@fpt.edu.vn
+CA150788,MiTTTCA150788,Trần,Thị Trà,Mi,Trần Thị Trà Mi,MiTTTCA150788@fpt.edu.vn
+CA150790,DongTACA150790,Trần,An,Đông,Trần An Đông,DongTACA150790@fpt.edu.vn
+CA150792,NhuLNCA150792,Lưu,Ngọc,Như,Lưu Ngọc Như,NhuLNCA150792@fpt.edu.vn
+CA150799,MyNHCA150799,Nguyễn,Huệ,My,Nguyễn Huệ My,MyNHCA150799@fpt.edu.vn
+CA150800,QuynhPPNCA150800,Phương,Phạm Nhã,Quỳnh,Phương Phạm Nhã Quỳnh,QuynhPPNCA150800@fpt.edu.vn
+CA150804,HoangTHCA150804,Trương,Huy,Hoàng,Trương Huy Hoàng,HoangTHCA150804@fpt.edu.vn
+CA150812,ChanhLHCA150812,Lê,Hồng,Chánh,Lê Hồng Chánh,ChanhLHCA150812@fpt.edu.vn
+CA150829,KhangNDCA150829,Nguyễn,Duy,Khang,Nguyễn Duy Khang,KhangNDCA150829@fpt.edu.vn
+CA150832,DuyenVTMCA150832,Võ,Thị Mỹ,Duyên,Võ Thị Mỹ Duyên,DuyenVTMCA150832@fpt.edu.vn
+CA150837,HueDKCA150837,Dương,Kim,Huệ,Dương Kim Huệ,HueDKCA150837@fpt.edu.vn
+CA150838,LyNTCA150838,Nguyễn,Thị,Lý,Nguyễn Thị Lý,LyNTCA150838@fpt.edu.vn
+CA150841,TrucHLMCA150841,Huỳnh,Lê Mai,Trúc,Huỳnh Lê Mai Trúc,TrucHLMCA150841@fpt.edu.vn
+CA150843,YenCPNCA150843,Chung,Phạm Ngọc,Yến,Chung Phạm Ngọc Yến,YenCPNCA150843@fpt.edu.vn
+CA150849,ThaoHNCA150849,Huỳnh,Ngọc,Thảo,Huỳnh Ngọc Thảo,ThaoHNCA150849@fpt.edu.vn
+CE150618,NganCTKCE150618,Chim,Thị Kim,Ngân,Chim Thị Kim Ngân,NganCTKCE150618@fpt.edu.vn
+CE150818,LinhNQCE150818,Nguyễn,Quốc,Linh,Nguyễn Quốc Linh,LinhNQCE150818@fpt.edu.vn
+CS150797,NghiaLHCS150797,Lưu,Hữu,Nghĩa,Lưu Hữu Nghĩa,NghiaLHCS150797@fpt.edu.vn
+CS150806,DungDTPCS150806,Đoàn,Thị Phương,Dung,Đoàn Thị Phương Dung,DungDTPCS150806@fpt.edu.vn
+CS150814,HaNTNCS150814,Nguyễn,Thị Ngân,Hà,Nguyễn Thị Ngân Hà,HaNTNCS150814@fpt.edu.vn
+CS150831,TranVTHCS150831,Võ,Thị Huyền,Trân,Võ Thị Huyền Trân,TranVTHCS150831@fpt.edu.vn
+CS150834,DanhVCCS150834,Võ,Cao,Danh,Võ Cao Danh,DanhVCCS150834@fpt.edu.vn
+CS150835,QuynhNPNCS150835,Nguyễn,Phúc Như,Quỳnh,Nguyễn Phúc Như Quỳnh,QuynhNPNCS150835@fpt.edu.vn
+CS150839,UyenNDXCS150839,Ngô,Đặng Xuân,Uyên,Ngô Đặng Xuân Uyên,UyenNDXCS150839@fpt.edu.vn
+CS150856,QuyenTPCS150856,Trần,Phương,Quyên,Trần Phương Quyên,QuyenTPCS150856@fpt.edu.vn
+CS150858,KhangTGCS150858,Trần,Gia,Khang,Trần Gia Khang,KhangTGCS150858@fpt.edu.vn
+CS150867,ThoaiNTCS150867,Nguyễn,Thế,Thoại,Nguyễn Thế Thoại,ThoaiNTCS150867@fpt.edu.vn
+CA150801,TranLBCA150801,Lê,Bảo,Trân,Lê Bảo Trân,TranLBCA150801@fpt.edu.vn
+CA150826,ThuNNMCA150826,Nguyễn,Ngọc Minh,Thư,Nguyễn Ngọc Minh Thư,ThuNNMCA150826@fpt.edu.vn
+CA150865,QuynhLNCA150865,La,Như,Quỳnh,La Như Quỳnh,QuynhLNCA150865@fpt.edu.vn
+CE150783,LiemTTCE150783,Trần,Thanh,Liêm,Trần Thanh Liêm,LiemTTCE150783@fpt.edu.vn
+CE150803,ThangTNCE150803,Trương,Nhựt,Thăng,Trương Nhựt Thăng,ThangTNCE150803@fpt.edu.vn
+CE150811,ToanNVCE150811,Nguyễn,Văn,Toàn,Nguyễn Văn Toàn,ToanNVCE150811@fpt.edu.vn
+CE150813,TuanHACE150813,Hoàng,Anh,Tuấn,Hoàng Anh Tuấn,TuanHACE150813@fpt.edu.vn
+CE150815,TriTDCE150815,Trần,Đắc,Trí,Trần Đắc Trí,TriTDCE150815@fpt.edu.vn
+CE150822,QuanTMHCE150822,Tạ,Mạnh Hoàng,Quân,Tạ Mạnh Hoàng Quân,QuanTMHCE150822@fpt.edu.vn
+CE150846,HoangLKCE150846,Lê,Khánh,Hoàng,Lê Khánh Hoàng,HoangLKCE150846@fpt.edu.vn
+CE150848,PhuTBTCE150848,Trang,Bùi Thiên,Phú,Trang Bùi Thiên Phú,PhuTBTCE150848@fpt.edu.vn
+CE150851,QuangTNCE150851,Trương,Nhựt,Quang,Trương Nhựt Quang,QuangTNCE150851@fpt.edu.vn
+CE150859,NhatNLMCE150859,Nguyễn,Lê Minh,Nhật,Nguyễn Lê Minh Nhật,NhatNLMCE150859@fpt.edu.vn
+CE150862,HoanTHCE150862,Trần,Huỳnh,Hoan,Trần Huỳnh Hoan,HoanTHCE150862@fpt.edu.vn
+CE150870,TanTDCE150870,Trương,Duy,Tân,Trương Duy Tân,TanTDCE150870@fpt.edu.vn
+CS150620,KhanhNQCS150620,Nguyễn,Quốc,Khánh,Nguyễn Quốc Khánh,KhanhNQCS150620@fpt.edu.vn
+CS150716,LinhLDCS150716,Lê,Duy,Linh,Lê Duy Linh,LinhLDCS150716@fpt.edu.vn
+CS150785,QuynhNNCS150785,Nguyễn,Như,Quỳnh,Nguyễn Như Quỳnh,QuynhNNCS150785@fpt.edu.vn
+CS150796,NhutTMCS150796,Trần,Minh,Nhựt,Trần Minh Nhựt,NhutTMCS150796@fpt.edu.vn
+CS150798,HanNGCS150798,Nguyễn,Gia,Hân,Nguyễn Gia Hân,HanNGCS150798@fpt.edu.vn
+CS150802,NhiHTCS150802,Huỳnh,Tuyết,Nhi,Huỳnh Tuyết Nhi,NhiHTCS150802@fpt.edu.vn
+CS150807,VyNTLCS150807,Nguyễn,Tùng Linh,Vy,Nguyễn Tùng Linh Vy,VyNTLCS150807@fpt.edu.vn
+CS150823,DuyNNHCS150823,Nguyễn,Nhật Hải,Duy,Nguyễn Nhật Hải Duy,DuyNNHCS150823@fpt.edu.vn
+CS150824,HuongHCS150824,Huỳnh,,Hương,Huỳnh  Hương,HuongHCS150824@fpt.edu.vn
+CS150825,VyLVYCS150825,Lê,Võ Yến,Vy,Lê Võ Yến Vy,VyLVYCS150825@fpt.edu.vn
+CS150833,NgocLMCS150833,Lê,Mỹ,Ngọc,Lê Mỹ Ngọc,NgocLMCS150833@fpt.edu.vn
+CS150845,TrucTTCS150845,Trịnh,Thanh,Trúc,Trịnh Thanh Trúc,TrucTTCS150845@fpt.edu.vn
+CA150362,HungNCCA150362,Nguyễn,Chí,Hừng,Nguyễn Chí Hừng,HungNCCA150362@fpt.edu.vn
+CA150820,LinhNTYCA150820,Nguyễn,Thị Yến,Linh,Nguyễn Thị Yến Linh,LinhNTYCA150820@fpt.edu.vn
+CE150343,HieuNVCE150343,Nguyễn,Văn,Hiếu,Nguyễn Văn Hiếu,HieuNVCE150343@fpt.edu.vn
+CE150781,KhanhQVCE150781,Quách,Văn,Khánh,Quách Văn Khánh,KhanhQVCE150781@fpt.edu.vn
+CE150789,ThienHNNCE150789,Hà,Nguyễn Nhật,Thiên,Hà Nguyễn Nhật Thiên,ThienHNNCE150789@fpt.edu.vn
+CE150795,XoanTTCCE150795,Trần,Thị Cẩm,Xoàn,Trần Thị Cẩm Xoàn,XoanTTCCE150795@fpt.edu.vn
+CE150808,TranTBCE150808,Trịnh,Bảo,Trân,Trịnh Bảo Trân,TranTBCE150808@fpt.edu.vn
+CE150819,TaiNHCE150819,Nguyễn,Hữu,Tài,Nguyễn Hữu Tài,TaiNHCE150819@fpt.edu.vn
+CE150836,DanNHCE150836,Nguyễn,Hồng,Dân,Nguyễn Hồng Dân,DanNHCE150836@fpt.edu.vn
+CE150842,TruongNPCE150842,Nguyễn,Phi,Trường,Nguyễn Phi Trường,TruongNPCE150842@fpt.edu.vn
+CE150844,TrungDVCE150844,Dương,Văn,Trung,Dương Văn Trung,TrungDVCE150844@fpt.edu.vn
+CE150847,ThiNMCE150847,Nguyễn,Minh,Thi,Nguyễn Minh Thi,ThiNMCE150847@fpt.edu.vn
+CE150850,DuyenNPCE150850,Nguyễn,Phước,Duyên,Nguyễn Phước Duyên,DuyenNPCE150850@fpt.edu.vn
+CE150853,NamNNCE150853,Nguyễn,Nhựt,Nam,Nguyễn Nhựt Nam,NamNNCE150853@fpt.edu.vn
+CE150860,ThuHACE150860,Hà,Anh,Thư,Hà Anh Thư,ThuHACE150860@fpt.edu.vn
+CE150863,OanhBNHCE150863,Bùi,Nguyễn Hoàng,Oanh,Bùi Nguyễn Hoàng Oanh,OanhBNHCE150863@fpt.edu.vn
+CS150318,HuyVHCS150318,Võ,Huỳnh,Huy,Võ Huỳnh Huy,HuyVHCS150318@fpt.edu.vn
+CS150778,AnhNNPCS150778,Nguyễn,Ngọc Phương,Anh,Nguyễn Ngọc Phương Anh,AnhNNPCS150778@fpt.edu.vn
+CS150791,CuongMCCS150791,Mai,Chí,Cường,Mai Chí Cường,CuongMCCS150791@fpt.edu.vn
+CS150805,NganNMCS150805,Nguyễn,Minh,Ngân,Nguyễn Minh Ngân,NganNMCS150805@fpt.edu.vn
+CS150809,KhanhLLCS150809,Lê,Long,Khánh,Lê Long Khánh,KhanhLLCS150809@fpt.edu.vn
+CS150810,MaiTTHCS150810,Trần,Thị Huỳnh,Mai,Trần Thị Huỳnh Mai,MaiTTHCS150810@fpt.edu.vn
+CS150816,HieuNDCS150816,Nguyễn,Đình,Hiếu,Nguyễn Đình Hiếu,HieuNDCS150816@fpt.edu.vn
+CS150817,LuatLCCS150817,Lâm,Chiếu,Luật,Lâm Chiếu Luật,LuatLCCS150817@fpt.edu.vn
+CS150828,TrangNTTCS150828,Nguyễn,Thị Thùy,Trang,Nguyễn Thị Thùy Trang,TrangNTTCS150828@fpt.edu.vn
+CS150840,AnhLNMCS150840,Lê,Ngọc Minh,Anh,Lê Ngọc Minh Anh,AnhLNMCS150840@fpt.edu.vn
+CS150864,AnNVTCS150864,Nguyễn,Văn Tuấn,An,Nguyễn Văn Tuấn An,AnNVTCS150864@fpt.edu.vn
+CE150871,PhuongTBCE150871,Trần,Bá,Phương,Trần Bá Phương,PhuongTBCE150871@fpt.edu.vn
+CE150034,LongNTCE150034,Nguyễn,Thanh,Long,Nguyễn Thanh Long,LongNTCE150034@fpt.edu.vn
+CE150628,NganNKTCE150628,Nguyễn,Kiều Trúc,Ngân,Nguyễn Kiều Trúc Ngân,NganNKTCE150628@fpt.edu.vn
+CE150656,DuongPLNCE150656,Phan,Lai Nhật,Dương,Phan Lai Nhật Dương,DuongPLNCE150656@fpt.edu.vn
+CS150023,LocTTCS150023,Trương,Tấn,Lộc,Trương Tấn Lộc,LocTTCS150023@fpt.edu.vn
+CS150372,KhoiNMCS150372,Nguyễn,Minh,Khôi,Nguyễn Minh Khôi,KhoiNMCS150372@fpt.edu.vn
+CS150694,BinhHYCS150694,Huỳnh,Y,Bình,Huỳnh Y Bình,BinhHYCS150694@fpt.edu.vn
+CS150875,ViPTYCS150875,Phạm,Thị Yến,Vi,Phạm Thị Yến Vi,ViPTYCS150875@fpt.edu.vn
+CA150873,ThaoTNTCA150873,Trần,Nguyễn Thanh,Thảo,Trần Nguyễn Thanh Thảo,ThaoTNTCA150873@fpt.edu.vn
+CE150874,KienLVCE150874,Lê,Văn,Kiên,Lê Văn Kiên,KienLVCE150874@fpt.edu.vn
+CS150878,LoiNDCS150878,Nguyễn,Đại,Lợi,Nguyễn Đại Lợi,LoiNDCS150878@fpt.edu.vn
+CE150876,ThongNVMCE150876,Nguyễn,Vũ Minh,Thông,Nguyễn Vũ Minh Thông,ThongNVMCE150876@fpt.edu.vn
+CA150877,HauNTCA150877,Nguyễn,Trung,Hậu,Nguyễn Trung Hậu,HauNTCA150877@fpt.edu.vn
+CS150872,HienLMCS150872,Lâm,Minh,Hiền,Lâm Minh Hiền,HienLMCS150872@fpt.edu.vn
+CS150882,HuyNVGCS150882,Nguyễn,Vũ Gia,Huy,Nguyễn Vũ Gia Huy,HuyNVGCS150882@fpt.edu.vn
+CS150777,HoangNLKCS150777,Nguyễn,Lê Khải,Hoàng,Nguyễn Lê Khải Hoàng,HoangNLKCS150777@fpt.edu.vn
+CA150880,NgocVYCA150880,Vương,Yến,Ngọc,Vương Yến Ngọc,NgocVYCA150880@fpt.edu.vn
+CS150883,ThanhNCCS150883,Nguyễn,Châu,Thanh,Nguyễn Châu Thanh,ThanhNCCS150883@fpt.edu.vn
+CE150879,HungNQCE150879,Nguyễn,Quốc,Hưng,Nguyễn Quốc Hưng,HungNQCE150879@fpt.edu.vn
+CE150881,TamNTCE150881,Nguyễn,Thanh,Tâm,Nguyễn Thanh Tâm,TamNTCE150881@fpt.edu.vn
+CE150579,PhucNHCE150579,Nguyễn,Hoàng,Phúc,Nguyễn Hoàng Phúc,PhucNHCE150579@fpt.edu.vn
+CS150608,KhanhNHCS150608,Nguyễn,Hữu,Khánh,Nguyễn Hữu Khánh,KhanhNHCS150608@fpt.edu.vn
+CS150826,ThuNNMCS150826,Nguyễn,Ngọc Minh,Thư,Nguyễn Ngọc Minh Thư,ThuNNMCS150826@fpt.edu.vn
+CS150865,QuynhLNCS150865,La,Như,Quỳnh,La Như Quỳnh,QuynhLNCS150865@fpt.edu.vn
