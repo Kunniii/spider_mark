@@ -1,4 +1,4 @@
-from selenium.webdriver import Firefox
+from selenium.webdriver import Firefox, FirefoxProfile
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support.ui import Select
 
@@ -22,6 +22,8 @@ class Spider:
 
         opts = Options()
         opts.add_argument("--headless")
+        opts.set_preference("browser.download.folderList", 2)
+        opts.set_preference("browser.download.dir", path.abspath("./downloads"))
 
         self.browser = Firefox(options=opts)
         self.browser.get(self.url)
